@@ -3,7 +3,7 @@
   "overview": {
     "combined_pnl": 0.0,
     "combined_record": "0-0",
-    "combined_roi": "0.0%",
+    "combined_roi": 0.0,
     "spread_ml_pnl": 0.0,
     "spread_ml_record": "0-0",
     "totals_pnl": 0.0,
