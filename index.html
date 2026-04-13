@@ -168,7 +168,7 @@ document.getElementById('tab-bar').addEventListener('click', function(e) {
 });
 
 function pnlBg(v) { return v >= 0 ? 'bg-g' : 'bg-r'; }
-function fmt(v) { return v > 0 ? '+' + v.toFixed(1) : v.toFixed(1); }
+function fmt(v) { if(typeof v==="string") return v; return v > 0 ? '+' + v.toFixed(1) : v.toFixed(1); }
 function tierClass(t) {
   var u = (t||'').toUpperCase();
   if (u === 'ELITE') return 'c-elite';
