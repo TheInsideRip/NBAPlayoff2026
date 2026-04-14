@@ -54,7 +54,7 @@
         "tier": "Elite",
         "book": "FanDuel +116",
         "pnl": null,
-        "target": true
+        "target": false
       },
       {
         "market": "props",
