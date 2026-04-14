@@ -260,7 +260,7 @@ function renderOverview(data) {
     h+='<div class="pnl-row" style="margin-top:10px;">';
     h+='<div class="pnl-box" style="border-color:rgba(241,90,41,0.25);"><div class="pnl-label" style="color:#f15a29;opacity:1;">KK Knicks</div><div><span class="bubble bub-lg '+pnlBg(o.knicks_pnl)+'">'+fmt(o.knicks_pnl)+'</span></div><div class="pnl-rec">'+o.knicks_record+'</div></div>';
     h+='<div class="pnl-box" style="border-color:rgba(108,52,131,0.3);"><div class="pnl-label" style="color:#9b59b6;opacity:1;">Degen Corner</div><div><span class="bubble bub-lg '+pnlBg(o.degen_pnl)+'">'+fmt(o.degen_pnl)+'</span></div><div class="pnl-rec">'+o.degen_record+'</div></div>';
-    h+='<div class="pnl-box"><div class="pnl-label">All-In Total</div><div><span class="bubble bub-lg '+pnlBg(o.combined_pnl + o.knicks_pnl + o.degen_pnl)+'">'+fmt(o.combined_pnl + o.knicks_pnl + o.degen_pnl)+'</span></div></div>';
+    h+='<div class="pnl-box"><div class="pnl-label">\u{1F3AF} Target Picks</div><div><span class="bubble bub-lg '+pnlBg(o.target_pnl || 0)+'">'+fmt(o.target_pnl || 0)+'</span></div><div class="pnl-rec">'+(o.target_record || '0-0')+'</div></div>';
     h+='</div>';
   }
   document.getElementById('overview-content').innerHTML=h;

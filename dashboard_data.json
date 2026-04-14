@@ -1,5 +1,5 @@
 {
-  "generated_date": "April 13, 2026",
+  "generated_date": "April 14, 2026",
   "overview": {
     "combined_pnl": 0.0,
     "combined_record": "0-0",
@@ -13,54 +13,68 @@
     "knicks_pnl": 0.0,
     "knicks_record": "0-0",
     "degen_pnl": 0.0,
-    "degen_record": "0-0"
+    "degen_record": "0-0",
+    "target_pnl": 0.0,
+    "target_record": "0-0"
   },
   "cumulative_chart": [],
   "yesterday": null,
   "today": {
-    "first_tip": "7:30 PM ET",
+    "first_tip": "7:40 PM ET",
+    "disclaimer": "Play-In Tournament (April 14-17): Assists props only. Game composites are built for playoff series and do not apply to single-elimination play-in games. Model P&L tracking begins Round 1, April 18.",
     "picks": [
+      {
+        "market": "props",
+        "play": "J. Green U 3.5 ast",
+        "matchup": "Trail Blazers @ Suns",
+        "time": "10:10 PM ET",
+        "series": "Play-In · West 7/8",
+        "tier": "Elite",
+        "book": "FanDuel -162",
+        "pnl": null,
+        "target": true
+      },
+      {
+        "market": "props",
+        "play": "T. Herro U 4.5 ast",
+        "matchup": "Heat @ Hornets",
+        "time": "7:40 PM ET",
+        "series": "Play-In · East 9/10",
+        "tier": "Elite",
+        "book": "FanDuel -132",
+        "pnl": null,
+        "target": true
+      },
       {
         "market": "props",
         "play": "L. Ball U 7.5 ast",
         "matchup": "Heat @ Hornets",
-        "time": "7:30 PM ET",
-        "series": "Play-In \u00b7 East 9/10",
+        "time": "7:40 PM ET",
+        "series": "Play-In · East 9/10",
         "tier": "Elite",
-        "book": "FanDuel -106",
+        "book": "FanDuel +116",
         "pnl": null,
-        "target": false
-      },
-      {
-        "market": "props",
-        "play": "K. Knueppel U 3.5 ast",
-        "matchup": "Heat @ Hornets",
-        "time": "7:30 PM ET",
-        "series": "Play-In \u00b7 East 9/10",
-        "tier": "Elite",
-        "book": "FanDuel -192",
-        "pnl": null,
-        "target": false
+        "target": true
       },
       {
         "market": "props",
         "play": "B. Miller U 3.5 ast",
         "matchup": "Heat @ Hornets",
-        "time": "7:30 PM ET",
-        "series": "Play-In \u00b7 East 9/10",
+        "time": "7:40 PM ET",
+        "series": "Play-In · East 9/10",
         "tier": "Elite",
-        "book": "FanDuel -192",
+        "book": "FanDuel -138",
         "pnl": null,
         "target": false
       },
       {
         "market": "props",
-        "play": "A. Wiggins U 2.5 ast",
-        "matchup": "Heat @ Hornets",
-        "time": "7:30 PM ET",
-        "series": "Play-In \u00b7 East 9/10",
+        "play": "J. Holiday U 5.5 ast",
+        "matchup": "Trail Blazers @ Suns",
+        "time": "10:10 PM ET",
+        "series": "Play-In · West 7/8",
         "tier": "Strong",
-        "book": "FanDuel -146",
+        "book": "FanDuel +112",
         "pnl": null,
         "target": false
       },
@@ -68,10 +82,21 @@
         "market": "props",
         "play": "D. Mitchell U 5.5 ast",
         "matchup": "Heat @ Hornets",
-        "time": "7:30 PM ET",
-        "series": "Play-In \u00b7 East 9/10",
+        "time": "7:40 PM ET",
+        "series": "Play-In · East 9/10",
         "tier": "Strong",
-        "book": "FanDuel +110",
+        "book": "FanDuel +106",
+        "pnl": null,
+        "target": false
+      },
+      {
+        "market": "props",
+        "play": "J. Jaquez Jr U 3.5 ast",
+        "matchup": "Heat @ Hornets",
+        "time": "7:40 PM ET",
+        "series": "Play-In · East 9/10",
+        "tier": "Strong",
+        "book": "FanDuel +104",
         "pnl": null,
         "target": false
       }
@@ -80,16 +105,16 @@
     "degen": {
       "picks": [
         {
-          "market": "spread_ml",
-          "play": "MIA +5.5",
-          "matchup": "Heat @ Hornets",
-          "time": "7:30 PM ET",
-          "series": "Play-In \u00b7 East 9/10",
+          "market": "totals",
+          "play": "POR/PHX U 216.5",
+          "matchup": "Trail Blazers @ Suns",
+          "time": "10:10 PM ET",
+          "series": "Play-In · West 7/8",
           "tier": "Degen",
-          "book": "FanDuel -110",
+          "book": "FanDuel -114",
           "pnl": null,
           "target": false,
-          "info": "MIA won 3 of 4 H2H this season \u00b7 In 5-7 spread sweet spot"
+          "info": "Total flat from open · Spread ≤6 · TF signal (75% Under in playoff data)"
         }
       ]
     }
