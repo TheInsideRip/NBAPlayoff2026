@@ -337,7 +337,7 @@ fetch('dashboard_data.json?'+Date.now())
   .then(function(r){if(!r.ok)throw new Error('No data');return r.json();})
   .then(function(data){
     document.getElementById('header-date').textContent=data.generated_date||'';
-    if(data.overview)renderOverview(data);
+    try{if(data.overview)renderOverview(data);}catch(e){console.log("overview error",e);}
     if(data.yesterday)renderYesterday(data);
     if(data.today)renderToday(data);
   })
