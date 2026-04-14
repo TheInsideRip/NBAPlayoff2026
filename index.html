@@ -219,7 +219,7 @@ function buildChart(pts, idPrefix) {
 function renderCard(b, showTier) {
   var isResolved = b.pnl !== undefined && b.pnl !== null;
   var h='<div class="card-top"><div>';
-  h+='<div class="card-matchup">'+b.play+'</div>';
+  h+='<div class="card-matchup">'+(b.target ? '\u{1F3AF} ' : '')+b.play+'</div>';
   h+='<div class="card-play">'+b.matchup+'</div>';
   var meta = [];
   if(b.time) meta.push(b.time + ' ET');
