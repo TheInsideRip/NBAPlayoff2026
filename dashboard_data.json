@@ -14,8 +14,8 @@
     "knicks_record": "0-0",
     "degen_pnl": -1.0,
     "degen_record": "0W-1L",
-    "target_pnl": 0.0,
-    "target_record": "0-0"
+    "target_pnl": -0.38,
+    "target_record": "1W-1L"
   },
   "cumulative_chart": [
     {
@@ -38,7 +38,8 @@
         "matchup": "Heat @ Hornets",
         "series": "",
         "book": "FanDuel -132",
-        "pnl": -1.0
+        "pnl": -1.0,
+        "target": true
       },
       {
         "market": "props",
@@ -78,7 +79,8 @@
         "matchup": "Trail Blazers @ Suns",
         "series": "",
         "book": "FanDuel -162",
-        "pnl": 0.62
+        "pnl": 0.62,
+        "target": true
       },
       {
         "market": "props",
