@@ -9,7 +9,13 @@
     "totals_pnl": 0.0,
     "totals_record": "0-0",
     "props_pnl": -3.26,
-    "props_record": "2W-5L"
+    "props_record": "2W-5L",
+    "knicks_pnl": 0.0,
+    "knicks_record": "0-0",
+    "degen_pnl": -1.0,
+    "degen_record": "0W-1L",
+    "target_pnl": 0.0,
+    "target_record": "0-0"
   },
   "cumulative_chart": [
     {
@@ -18,13 +24,13 @@
     }
   ],
   "yesterday": {
-    "day_pnl": -3.26,
-    "day_record": "2W-5L",
+    "day_pnl": -4.26,
+    "day_record": "2W-6L",
     "best_bet": {
       "pnl": 1.12,
       "label": "J. Holiday U 5.5 ast"
     },
-    "last_10_record": "2-5",
+    "last_10_record": "2-6",
     "bets": [
       {
         "market": "props",
@@ -82,6 +88,18 @@
         "book": "FanDuel +112",
         "pnl": 1.12
       }
-    ]
+    ],
+    "degen": {
+      "bets": [
+        {
+          "market": "totals",
+          "play": "POR/PHX U 216.5",
+          "matchup": "Trail Blazers @ Suns",
+          "series": "",
+          "book": "FanDuel -114",
+          "pnl": -1.0
+        }
+      ]
+    }
   }
 }
