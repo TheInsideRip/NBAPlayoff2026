@@ -103,5 +103,59 @@
         }
       ]
     }
+  },
+  "today": {
+    "first_tip": "TBD",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Jalen Suggs U 5.5 ast",
+        "matchup": "Magic @ 76ers",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -106",
+        "target": true
+      },
+      {
+        "market": "props",
+        "play": "Kris Dunn U 3.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -146"
+      },
+      {
+        "market": "props",
+        "play": "Darius Garland U 6.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "props",
+        "play": "Draymond Green U 5.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +118"
+      },
+      {
+        "market": "props",
+        "play": "Paul George U 3.5 ast",
+        "matchup": "Magic @ 76ers",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +102"
+      },
+      {
+        "market": "props",
+        "play": "Stephen Curry U 4.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +102"
+      }
+    ]
   }
 }
