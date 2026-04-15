@@ -103,5 +103,93 @@
         }
       ]
     }
+  },
+  "today": {
+    "first_tip": "10:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Franz Wagner U 3.5 ast",
+        "matchup": "Magic @ 76ers",
+        "time": "7:40 PM ET",
+        "series": "",
+        "tier": "Elite",
+        "book": "FanDuel -158",
+        "target": true
+      },
+      {
+        "market": "props",
+        "play": "Jalen Suggs U 5.5 ast",
+        "matchup": "Magic @ 76ers",
+        "time": "7:40 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -120"
+      },
+      {
+        "market": "props",
+        "play": "Kris Dunn U 3.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "time": "10:10 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      },
+      {
+        "market": "props",
+        "play": "Darius Garland U 6.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "time": "10:10 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +106",
+        "target": true
+      },
+      {
+        "market": "props",
+        "play": "Draymond Green U 5.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "time": "10:10 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +118"
+      },
+      {
+        "market": "props",
+        "play": "Paul George U 3.5 ast",
+        "matchup": "Magic @ 76ers",
+        "time": "7:40 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +116"
+      },
+      {
+        "market": "props",
+        "play": "Stephen Curry U 4.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "time": "10:10 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +102"
+      },
+      {
+        "market": "props",
+        "play": "Quentin Grimes U 2.5 ast",
+        "matchup": "Magic @ 76ers",
+        "time": "7:40 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -136"
+      },
+      {
+        "market": "props",
+        "play": "Al Horford U 1.5 ast",
+        "matchup": "Warriors @ Clippers",
+        "time": "10:10 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +110"
+      }
+    ]
   }
 }
