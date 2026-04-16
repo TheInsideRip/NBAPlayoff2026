@@ -1,120 +1,49 @@
 {
-  "generated_date": "April 15, 2026",
+  "generated_date": "April 16, 2026",
   "overview": {
-    "combined_pnl": -3.26,
-    "combined_record": "2W-5L",
-    "combined_roi": -46.6,
+    "combined_pnl": -2.94,
+    "combined_record": "7W-9L",
+    "combined_roi": -18.4,
     "spread_ml_pnl": 0.0,
     "spread_ml_record": "0-0",
     "totals_pnl": 0.0,
     "totals_record": "0-0",
-    "props_pnl": -3.26,
-    "props_record": "2W-5L",
+    "props_pnl": -2.94,
+    "props_record": "7W-9L",
     "knicks_pnl": 0.0,
     "knicks_record": "0-0",
     "degen_pnl": -1.0,
     "degen_record": "0W-1L",
-    "target_pnl": -0.38,
-    "target_record": "1W-1L"
+    "target_pnl": -0.75,
+    "target_record": "2W-2L"
   },
   "cumulative_chart": [
     {
       "date": "2026-04-14",
       "cumPnl": -3.26
+    },
+    {
+      "date": "2026-04-15",
+      "cumPnl": -2.94
     }
   ],
   "yesterday": {
-    "day_pnl": -4.26,
-    "day_record": "2W-6L",
+    "day_pnl": 0.32,
+    "day_record": "5W-4L",
     "best_bet": {
-      "pnl": 1.12,
-      "label": "J. Holiday U 5.5 ast"
+      "pnl": 1.1,
+      "label": "Al Horford U 1.5 ast"
     },
-    "last_10_record": "2-6",
+    "last_10_record": "5-5",
     "bets": [
-      {
-        "market": "props",
-        "play": "T. Herro U 4.5 ast",
-        "matchup": "Heat @ Hornets",
-        "series": "",
-        "book": "FanDuel -132",
-        "pnl": -1.0,
-        "target": true
-      },
-      {
-        "market": "props",
-        "play": "L. Ball U 7.5 ast",
-        "matchup": "Heat @ Hornets",
-        "series": "",
-        "book": "FanDuel +116",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "B. Miller U 3.5 ast",
-        "matchup": "Heat @ Hornets",
-        "series": "",
-        "book": "FanDuel -138",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "D. Mitchell U 5.5 ast",
-        "matchup": "Heat @ Hornets",
-        "series": "",
-        "book": "FanDuel +106",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "J. Jaquez Jr U 3.5 ast",
-        "matchup": "Heat @ Hornets",
-        "series": "",
-        "book": "FanDuel +104",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "J. Green U 3.5 ast",
-        "matchup": "Trail Blazers @ Suns",
-        "series": "",
-        "book": "FanDuel -162",
-        "pnl": 0.62,
-        "target": true
-      },
-      {
-        "market": "props",
-        "play": "J. Holiday U 5.5 ast",
-        "matchup": "Trail Blazers @ Suns",
-        "series": "",
-        "book": "FanDuel +112",
-        "pnl": 1.12
-      }
-    ],
-    "degen": {
-      "bets": [
-        {
-          "market": "totals",
-          "play": "POR/PHX U 216.5",
-          "matchup": "Trail Blazers @ Suns",
-          "series": "",
-          "book": "FanDuel -114",
-          "pnl": -1.0
-        }
-      ]
-    }
-  },
-  "today": {
-    "first_tip": "10:10 PM ET",
-    "picks": [
       {
         "market": "props",
         "play": "Franz Wagner U 3.5 ast",
         "matchup": "Magic @ 76ers",
         "time": "7:40 PM ET",
         "series": "",
-        "tier": "Elite",
         "book": "FanDuel -158",
+        "pnl": 0.63,
         "target": true
       },
       {
@@ -123,8 +52,8 @@
         "matchup": "Magic @ 76ers",
         "time": "7:40 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel -120"
+        "book": "FanDuel -120",
+        "pnl": 0.83
       },
       {
         "market": "props",
@@ -132,8 +61,8 @@
         "matchup": "Warriors @ Clippers",
         "time": "10:10 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -141,8 +70,8 @@
         "matchup": "Warriors @ Clippers",
         "time": "10:10 PM ET",
         "series": "",
-        "tier": "Strong",
         "book": "FanDuel +106",
+        "pnl": -1.0,
         "target": true
       },
       {
@@ -151,8 +80,8 @@
         "matchup": "Warriors @ Clippers",
         "time": "10:10 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel +118"
+        "book": "FanDuel +118",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -160,8 +89,8 @@
         "matchup": "Magic @ 76ers",
         "time": "7:40 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel +116"
+        "book": "FanDuel +116",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -169,8 +98,8 @@
         "matchup": "Warriors @ Clippers",
         "time": "10:10 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel +102"
+        "book": "FanDuel +102",
+        "pnl": 1.02
       },
       {
         "market": "props",
@@ -178,8 +107,8 @@
         "matchup": "Magic @ 76ers",
         "time": "7:40 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel -136"
+        "book": "FanDuel -136",
+        "pnl": 0.74
       },
       {
         "market": "props",
@@ -187,8 +116,8 @@
         "matchup": "Warriors @ Clippers",
         "time": "10:10 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel +110"
+        "book": "FanDuel +110",
+        "pnl": 1.1
       }
     ]
   }
