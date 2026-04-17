@@ -1,0 +1,32 @@
+# Dashboard repo contains ONLY index.html + dashboard_data.json + .nojekyll
+# Everything else stays local.
+
+# Backups
+*.bak
+*.bak2
+*.bak2b
+*.bak2c
+*.bak3
+
+# Databases (never leak data)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Python scripts (all local — model logic, patchers, helpers)
+*.py
+__pycache__/
+*.pyc
+
+# Config files (API keys, secrets)
+config.py
+config.json
+.env
+*.env
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
