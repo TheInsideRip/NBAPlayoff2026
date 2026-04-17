@@ -1,5 +1,5 @@
 {
-  "generated_date": "April 16, 2026",
+  "generated_date": "April 17, 2026",
   "overview": {
     "combined_pnl": -2.94,
     "combined_record": "7W-9L",
@@ -27,97 +27,112 @@
       "cumPnl": -2.94
     }
   ],
-  "yesterday": {
-    "day_pnl": 0.32,
-    "day_record": "5W-4L",
-    "best_bet": {
-      "pnl": 1.1,
-      "label": "Al Horford U 1.5 ast"
-    },
-    "last_10_record": "5-5",
-    "bets": [
+  "today": {
+    "first_tip": "TBD",
+    "picks": [
       {
         "market": "props",
-        "play": "Franz Wagner U 3.5 ast",
-        "matchup": "Magic @ 76ers",
-        "time": "7:40 PM ET",
+        "play": "Draymond Green U 6.5 ast",
+        "matchup": "Warriors @ Suns",
         "series": "",
-        "book": "FanDuel -158",
-        "pnl": 0.63,
-        "target": true
+        "tier": "Elite",
+        "book": "FanDuel -136"
+      },
+      {
+        "market": "props",
+        "play": "Jalen Green U 3.5 ast",
+        "matchup": "Warriors @ Suns",
+        "series": "",
+        "tier": "Elite",
+        "book": "FanDuel -180"
+      },
+      {
+        "market": "props",
+        "play": "LaMelo Ball U 7.5 ast",
+        "matchup": "Hornets @ Magic",
+        "series": "",
+        "tier": "Elite",
+        "book": "FanDuel -122"
       },
       {
         "market": "props",
         "play": "Jalen Suggs U 5.5 ast",
-        "matchup": "Magic @ 76ers",
-        "time": "7:40 PM ET",
+        "matchup": "Hornets @ Magic",
         "series": "",
-        "book": "FanDuel -120",
-        "pnl": 0.83
+        "tier": "Strong",
+        "book": "FanDuel -125"
       },
       {
         "market": "props",
-        "play": "Kris Dunn U 3.5 ast",
-        "matchup": "Warriors @ Clippers",
-        "time": "10:10 PM ET",
+        "play": "De'Anthony Melton U 2.5 ast",
+        "matchup": "Warriors @ Suns",
         "series": "",
-        "book": "FanDuel -110",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Darius Garland U 6.5 ast",
-        "matchup": "Warriors @ Clippers",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel +106",
-        "pnl": -1.0,
-        "target": true
-      },
-      {
-        "market": "props",
-        "play": "Draymond Green U 5.5 ast",
-        "matchup": "Warriors @ Clippers",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel +118",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Paul George U 3.5 ast",
-        "matchup": "Magic @ 76ers",
-        "time": "7:40 PM ET",
-        "series": "",
-        "book": "FanDuel +116",
-        "pnl": -1.0
+        "tier": "Strong",
+        "book": "FanDuel -146"
       },
       {
         "market": "props",
         "play": "Stephen Curry U 4.5 ast",
-        "matchup": "Warriors @ Clippers",
-        "time": "10:10 PM ET",
+        "matchup": "Warriors @ Suns",
         "series": "",
-        "book": "FanDuel +102",
-        "pnl": 1.02
+        "tier": "Strong",
+        "book": "FanDuel +114"
       },
       {
         "market": "props",
-        "play": "Quentin Grimes U 2.5 ast",
-        "matchup": "Magic @ 76ers",
-        "time": "7:40 PM ET",
+        "play": "Brandin Podziemski U 3.5 ast",
+        "matchup": "Warriors @ Suns",
         "series": "",
-        "book": "FanDuel -136",
-        "pnl": 0.74
+        "tier": "Strong",
+        "book": "FanDuel -110"
       },
       {
         "market": "props",
-        "play": "Al Horford U 1.5 ast",
-        "matchup": "Warriors @ Clippers",
-        "time": "10:10 PM ET",
+        "play": "Gui Santos U 2.5 ast",
+        "matchup": "Warriors @ Suns",
         "series": "",
-        "book": "FanDuel +110",
-        "pnl": 1.1
+        "tier": "Strong",
+        "book": "FanDuel +130"
+      },
+      {
+        "market": "props",
+        "play": "Dillon Brooks U 1.5 ast",
+        "matchup": "Warriors @ Suns",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +110"
+      },
+      {
+        "market": "props",
+        "play": "Miles Bridges U 2.5 ast",
+        "matchup": "Hornets @ Magic",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "props",
+        "play": "Kon Knueppel U 2.5 ast",
+        "matchup": "Hornets @ Magic",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +102"
+      },
+      {
+        "market": "props",
+        "play": "Franz Wagner U 2.5 ast",
+        "matchup": "Hornets @ Magic",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +112"
+      },
+      {
+        "market": "props",
+        "play": "Coby White U 2.5 ast",
+        "matchup": "Hornets @ Magic",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -144"
       }
     ]
   }
