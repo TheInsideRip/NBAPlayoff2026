@@ -1,11 +1,11 @@
 {
   "generated_date": "April 17, 2026",
   "overview": {
-    "combined_pnl": -2.94,
-    "combined_record": "7W-9L",
-    "combined_roi": -18.4,
-    "spread_ml_pnl": 0.0,
-    "spread_ml_record": "0-0",
+    "model_pnl": -2.94,
+    "model_record": "7W-9L",
+    "model_roi": -18.4,
+    "spreads_pnl": 0.0,
+    "spreads_record": "0-0",
     "totals_pnl": 0.0,
     "totals_record": "0-0",
     "props_pnl": -2.94,
@@ -13,9 +13,7 @@
     "knicks_pnl": 0.0,
     "knicks_record": "0-0",
     "degen_pnl": -1.0,
-    "degen_record": "0W-1L",
-    "target_pnl": -0.75,
-    "target_record": "2W-2L"
+    "degen_record": "0W-1L"
   },
   "cumulative_chart": [
     {

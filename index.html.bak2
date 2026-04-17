@@ -179,8 +179,8 @@ function tierClass(t) {
   if (u === 'KK SPECIAL') return 'c-knicks';
   return 'c-lean';
 }
-var ML = { spreads: 'Spread / ML', totals: 'Totals', props: 'Props' };
-var MO = ['spreads', 'totals', 'props'];
+var ML = { spread_ml: 'Spread / ML', totals: 'Totals', props: 'Props' };
+var MO = ['spread_ml', 'totals', 'props'];
 
 function buildChart(pts, idPrefix) {
   if (!pts || pts.length < 2) return '';
@@ -219,7 +219,7 @@ function buildChart(pts, idPrefix) {
 function renderCard(b, showTier) {
   var isResolved = b.pnl !== undefined && b.pnl !== null;
   var h='<div class="card-top"><div>';
-  h+='<div class="card-matchup">'+b.play+'</div>';
+  h+='<div class="card-matchup">'+(b.target ? '\u{1F3AF} ' : '')+b.play+'</div>';
   h+='<div class="card-play">'+b.matchup+'</div>';
   var meta = [];
   if(b.time) meta.push(b.time + ' ET');
@@ -238,15 +238,15 @@ function renderCard(b, showTier) {
 
 function renderOverview(data) {
   var o=data.overview;
-  var h='<div class="hero"><div class="hero-label">Model P&L</div>';
-  h+='<div><span class="bubble bub-hero '+pnlBg(o.model_pnl)+'">'+fmt(o.model_pnl)+'</span></div>';
-  h+='<div class="hero-rec">'+o.model_record+' &middot; ROI '+fmt(o.model_roi)+'%</div></div>';
+  var h='<div class="hero"><div class="hero-label">Playoff P&L</div>';
+  h+='<div><span class="bubble bub-hero '+pnlBg(o.combined_pnl)+'">'+fmt(o.combined_pnl)+'</span></div>';
+  h+='<div class="hero-rec">'+o.combined_record+' &middot; ROI '+fmt(o.combined_roi)+'%</div></div>';
   h+='<div class="pnl-row">';
-  [['Spread / ML','spreads_pnl','spreads_record'],['Totals','totals_pnl','totals_record'],['Props','props_pnl','props_record']].forEach(function(m){
+  [['Spread / ML','spread_ml_pnl','spread_ml_record'],['Totals','totals_pnl','totals_record'],['Props','props_pnl','props_record']].forEach(function(m){
     h+='<div class="pnl-box"><div class="pnl-label">'+m[0]+'</div><div><span class="bubble bub-lg '+pnlBg(o[m[1]])+'">'+fmt(o[m[1]])+'</span></div><div class="pnl-rec">'+o[m[2]]+'</div></div>';
   });
   h+='</div>';
-  h+='<div class="section-hdr"><span class="dot"></span>Model P&L</div>';
+  h+='<div class="section-hdr"><span class="dot"></span>Playoff P&L</div>';
   h+='<div class="chart-box">'+buildChart(data.cumulative_chart, 'cs')+'</div>';
   var last14 = data.cumulative_chart;
   if (last14 && last14.length > 14) {
@@ -260,6 +260,7 @@ function renderOverview(data) {
     h+='<div class="pnl-row" style="margin-top:10px;">';
     h+='<div class="pnl-box" style="border-color:rgba(241,90,41,0.25);"><div class="pnl-label" style="color:#f15a29;opacity:1;">KK Knicks</div><div><span class="bubble bub-lg '+pnlBg(o.knicks_pnl)+'">'+fmt(o.knicks_pnl)+'</span></div><div class="pnl-rec">'+o.knicks_record+'</div></div>';
     h+='<div class="pnl-box" style="border-color:rgba(108,52,131,0.3);"><div class="pnl-label" style="color:#9b59b6;opacity:1;">Degen Corner</div><div><span class="bubble bub-lg '+pnlBg(o.degen_pnl)+'">'+fmt(o.degen_pnl)+'</span></div><div class="pnl-rec">'+o.degen_record+'</div></div>';
+    h+='<div class="pnl-box"><div class="pnl-label">\u{1F3AF} Target Picks</div><div><span class="bubble bub-lg '+pnlBg(o.target_pnl || 0)+'">'+fmt(o.target_pnl || 0)+'</span></div><div class="pnl-rec">'+(o.target_record || '0-0')+'</div></div>';
     h+='</div>';
   }
   document.getElementById('overview-content').innerHTML=h;
