@@ -28,12 +28,13 @@
     }
   ],
   "today": {
-    "first_tip": "TBD",
+    "first_tip": "07:40 PM ET",
     "picks": [
       {
         "market": "props",
         "play": "Draymond Green U 6.5 ast",
         "matchup": "Warriors @ Suns",
+        "time": "10:10 PM ET",
         "series": "",
         "tier": "Elite",
         "book": "FanDuel -136"
@@ -42,6 +43,7 @@
         "market": "props",
         "play": "Jalen Green U 3.5 ast",
         "matchup": "Warriors @ Suns",
+        "time": "10:10 PM ET",
         "series": "",
         "tier": "Elite",
         "book": "FanDuel -180"
@@ -50,6 +52,7 @@
         "market": "props",
         "play": "LaMelo Ball U 7.5 ast",
         "matchup": "Hornets @ Magic",
+        "time": "07:40 PM ET",
         "series": "",
         "tier": "Elite",
         "book": "FanDuel -122"
@@ -58,6 +61,7 @@
         "market": "props",
         "play": "Jalen Suggs U 5.5 ast",
         "matchup": "Hornets @ Magic",
+        "time": "07:40 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel -125"
@@ -66,6 +70,7 @@
         "market": "props",
         "play": "De'Anthony Melton U 2.5 ast",
         "matchup": "Warriors @ Suns",
+        "time": "10:10 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel -146"
@@ -74,6 +79,7 @@
         "market": "props",
         "play": "Stephen Curry U 4.5 ast",
         "matchup": "Warriors @ Suns",
+        "time": "10:10 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel +114"
@@ -82,6 +88,7 @@
         "market": "props",
         "play": "Brandin Podziemski U 3.5 ast",
         "matchup": "Warriors @ Suns",
+        "time": "10:10 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel -110"
@@ -90,6 +97,7 @@
         "market": "props",
         "play": "Gui Santos U 2.5 ast",
         "matchup": "Warriors @ Suns",
+        "time": "10:10 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel +130"
@@ -98,6 +106,7 @@
         "market": "props",
         "play": "Dillon Brooks U 1.5 ast",
         "matchup": "Warriors @ Suns",
+        "time": "10:10 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel +110"
@@ -106,6 +115,7 @@
         "market": "props",
         "play": "Miles Bridges U 2.5 ast",
         "matchup": "Hornets @ Magic",
+        "time": "07:40 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel -114"
@@ -114,6 +124,7 @@
         "market": "props",
         "play": "Kon Knueppel U 2.5 ast",
         "matchup": "Hornets @ Magic",
+        "time": "07:40 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel +102"
@@ -122,6 +133,7 @@
         "market": "props",
         "play": "Franz Wagner U 2.5 ast",
         "matchup": "Hornets @ Magic",
+        "time": "07:40 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel +112"
@@ -130,6 +142,7 @@
         "market": "props",
         "play": "Coby White U 2.5 ast",
         "matchup": "Hornets @ Magic",
+        "time": "07:40 PM ET",
         "series": "",
         "tier": "Strong",
         "book": "FanDuel -144"
