@@ -1,160 +1,19 @@
 {
   "generated_date": "April 18, 2026",
   "overview": {
-    "model_pnl": -2.75,
-    "model_record": "14W-15L",
-    "model_roi": -9.5,
-    "spreads_pnl": 0.0,
+    "model_pnl": 0,
+    "model_record": "0-0",
+    "model_roi": 0,
+    "spreads_pnl": 0,
     "spreads_record": "0-0",
-    "totals_pnl": 0.0,
+    "totals_pnl": 0,
     "totals_record": "0-0",
-    "props_pnl": -2.75,
-    "props_record": "14W-15L",
-    "knicks_pnl": 0.0,
+    "props_pnl": 0,
+    "props_record": "0-0",
+    "knicks_pnl": 0,
     "knicks_record": "0-0",
-    "degen_pnl": -1.0,
-    "degen_record": "0W-1L"
+    "degen_pnl": 0,
+    "degen_record": "0-0"
   },
-  "cumulative_chart": [
-    {
-      "date": "2026-04-14",
-      "cumPnl": -3.26
-    },
-    {
-      "date": "2026-04-15",
-      "cumPnl": -2.94
-    },
-    {
-      "date": "2026-04-17",
-      "cumPnl": -2.75
-    }
-  ],
-  "yesterday": {
-    "day_pnl": 0.2,
-    "day_record": "7W-6L",
-    "best_bet": {
-      "pnl": 1.14,
-      "label": "Stephen Curry U 4.5 ast"
-    },
-    "last_10_record": "5-5",
-    "bets": [
-      {
-        "market": "props",
-        "play": "Draymond Green U 6.5 ast",
-        "matchup": "Warriors @ Suns",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel -136",
-        "pnl": 0.74
-      },
-      {
-        "market": "props",
-        "play": "Jalen Green U 3.5 ast",
-        "matchup": "Warriors @ Suns",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel -180",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "LaMelo Ball U 7.5 ast",
-        "matchup": "Hornets @ Magic",
-        "time": "07:40 PM ET",
-        "series": "",
-        "book": "FanDuel -122",
-        "pnl": 0.82
-      },
-      {
-        "market": "props",
-        "play": "Jalen Suggs U 5.5 ast",
-        "matchup": "Hornets @ Magic",
-        "time": "07:40 PM ET",
-        "series": "",
-        "book": "FanDuel -125",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "De'Anthony Melton U 2.5 ast",
-        "matchup": "Warriors @ Suns",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel -146",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Stephen Curry U 4.5 ast",
-        "matchup": "Warriors @ Suns",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel +114",
-        "pnl": 1.14
-      },
-      {
-        "market": "props",
-        "play": "Brandin Podziemski U 3.5 ast",
-        "matchup": "Warriors @ Suns",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel -110",
-        "pnl": 0.91
-      },
-      {
-        "market": "props",
-        "play": "Gui Santos U 2.5 ast",
-        "matchup": "Warriors @ Suns",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel +130",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Dillon Brooks U 1.5 ast",
-        "matchup": "Warriors @ Suns",
-        "time": "10:10 PM ET",
-        "series": "",
-        "book": "FanDuel +110",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Miles Bridges U 2.5 ast",
-        "matchup": "Hornets @ Magic",
-        "time": "07:40 PM ET",
-        "series": "",
-        "book": "FanDuel -114",
-        "pnl": 0.88
-      },
-      {
-        "market": "props",
-        "play": "Kon Knueppel U 2.5 ast",
-        "matchup": "Hornets @ Magic",
-        "time": "07:40 PM ET",
-        "series": "",
-        "book": "FanDuel +102",
-        "pnl": 1.02
-      },
-      {
-        "market": "props",
-        "play": "Franz Wagner U 2.5 ast",
-        "matchup": "Hornets @ Magic",
-        "time": "07:40 PM ET",
-        "series": "",
-        "book": "FanDuel +112",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Coby White U 2.5 ast",
-        "matchup": "Hornets @ Magic",
-        "time": "07:40 PM ET",
-        "series": "",
-        "book": "FanDuel -144",
-        "pnl": 0.69
-      }
-    ]
-  }
+  "cumulative_chart": []
 }
