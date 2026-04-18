@@ -15,5 +15,217 @@
     "degen_pnl": 0,
     "degen_record": "0-0"
   },
-  "cumulative_chart": []
+  "cumulative_chart": [],
+  "today": {
+    "first_tip": "01:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Luke Kennard U 5.5 ast",
+        "matchup": "Rockets @ Lakers",
+        "time": "08:40 PM ET",
+        "series": "LAL 0-0 HOU",
+        "tier": "Elite",
+        "book": "FanDuel -162"
+      },
+      {
+        "market": "props",
+        "play": "Marcus Smart U 4.5 ast",
+        "matchup": "Rockets @ Lakers",
+        "time": "08:40 PM ET",
+        "series": "LAL 0-0 HOU",
+        "tier": "Elite",
+        "book": "FanDuel -144"
+      },
+      {
+        "market": "props",
+        "play": "Karl-Anthony Towns U 3.5 ast",
+        "matchup": "Hawks @ Knicks",
+        "time": "06:10 PM ET",
+        "series": "NYK 0-0 ATL",
+        "tier": "Elite",
+        "book": "FanDuel -146"
+      },
+      {
+        "market": "spreads",
+        "play": "TOR ML",
+        "matchup": "Raptors @ Cavaliers",
+        "time": "01:10 PM ET",
+        "series": "CLE 0-0 TOR",
+        "tier": "Jackpot",
+        "book": "FanDuel +275"
+      },
+      {
+        "market": "spreads",
+        "play": "MIN ML",
+        "matchup": "Timberwolves @ Nuggets",
+        "time": "03:40 PM ET",
+        "series": "DEN 0-0 MIN",
+        "tier": "Jackpot",
+        "book": "FanDuel +220"
+      },
+      {
+        "market": "spreads",
+        "play": "ATL ML",
+        "matchup": "Hawks @ Knicks",
+        "time": "06:10 PM ET",
+        "series": "NYK 0-0 ATL",
+        "tier": "Jackpot",
+        "book": "FanDuel +190"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 231.5",
+        "matchup": "Timberwolves @ Nuggets",
+        "time": "03:40 PM ET",
+        "series": "DEN 0-0 MIN",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 220.5",
+        "matchup": "Raptors @ Cavaliers",
+        "time": "01:10 PM ET",
+        "series": "CLE 0-0 TOR",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 216.5",
+        "matchup": "Hawks @ Knicks",
+        "time": "06:10 PM ET",
+        "series": "NYK 0-0 ATL",
+        "tier": "Elite",
+        "book": "FanDuel -112"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 208.5",
+        "matchup": "Rockets @ Lakers",
+        "time": "08:40 PM ET",
+        "series": "LAL 0-0 HOU",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      }
+    ],
+    "knicks": {
+      "preview": "",
+      "picks": [
+        {
+          "market": "spreads",
+          "play": "Karl-Anthony Towns O 11.5 rebounds",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "tier": "KK",
+          "book": "FanDuel -118"
+        },
+        {
+          "market": "other",
+          "play": "Josh Hart O 10.5 points",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "tier": "KK",
+          "book": "FanDuel -114"
+        },
+        {
+          "market": "other",
+          "play": "Mikal Bridges O 12.5 points",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "tier": "KK",
+          "book": "FanDuel -122"
+        }
+      ]
+    },
+    "degen": {
+      "picks": [
+        {
+          "market": "props",
+          "play": "Josh Hart U 4.5 ast",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "tier": "Strong",
+          "book": "FanDuel -158"
+        },
+        {
+          "market": "props",
+          "play": "Donte DiVincenzo U 3.5 ast",
+          "matchup": "Timberwolves @ Nuggets",
+          "time": "03:40 PM ET",
+          "series": "DEN 0-0 MIN",
+          "tier": "Strong",
+          "book": "FanDuel -132"
+        },
+        {
+          "market": "props",
+          "play": "Aaron Gordon U 2.5 ast",
+          "matchup": "Timberwolves @ Nuggets",
+          "time": "03:40 PM ET",
+          "series": "DEN 0-0 MIN",
+          "tier": "Strong",
+          "book": "FanDuel -110"
+        },
+        {
+          "market": "props",
+          "play": "C.J. McCollum U 3.5 ast",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "tier": "Strong",
+          "book": "FanDuel -106"
+        },
+        {
+          "market": "props",
+          "play": "Jake LaRavia U 1.5 ast",
+          "matchup": "Rockets @ Lakers",
+          "time": "08:40 PM ET",
+          "series": "LAL 0-0 HOU",
+          "tier": "Strong",
+          "book": "FanDuel -102"
+        },
+        {
+          "market": "props",
+          "play": "Onyeka Okongwu U 2.5 ast",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "tier": "Strong",
+          "book": "FanDuel -146"
+        },
+        {
+          "market": "props",
+          "play": "Reed Sheppard U 2.5 ast",
+          "matchup": "Rockets @ Lakers",
+          "time": "08:40 PM ET",
+          "series": "LAL 0-0 HOU",
+          "tier": "Strong",
+          "book": "FanDuel +112"
+        },
+        {
+          "market": "props",
+          "play": "Evan Mobley U 2.5 ast",
+          "matchup": "Raptors @ Cavaliers",
+          "time": "01:10 PM ET",
+          "series": "CLE 0-0 TOR",
+          "tier": "Strong",
+          "book": "FanDuel +120"
+        },
+        {
+          "market": "spreads",
+          "play": "LAL ML",
+          "matchup": "Rockets @ Lakers",
+          "time": "08:40 PM ET",
+          "series": "LAL 0-0 HOU",
+          "tier": "Jackpot",
+          "book": "FanDuel +172"
+        }
+      ]
+    }
+  }
 }
