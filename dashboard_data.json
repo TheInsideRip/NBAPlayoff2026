@@ -21,24 +21,6 @@
     "picks": [
       {
         "market": "props",
-        "play": "Luke Kennard U 5.5 ast",
-        "matchup": "Rockets @ Lakers",
-        "time": "08:40 PM ET",
-        "series": "LAL 0-0 HOU",
-        "tier": "Elite",
-        "book": "FanDuel -162"
-      },
-      {
-        "market": "props",
-        "play": "Marcus Smart U 4.5 ast",
-        "matchup": "Rockets @ Lakers",
-        "time": "08:40 PM ET",
-        "series": "LAL 0-0 HOU",
-        "tier": "Elite",
-        "book": "FanDuel -144"
-      },
-      {
-        "market": "props",
         "play": "Karl-Anthony Towns U 3.5 ast",
         "matchup": "Hawks @ Knicks",
         "time": "06:10 PM ET",
@@ -144,6 +126,24 @@
     },
     "degen": {
       "picks": [
+        {
+          "market": "props",
+          "play": "Luke Kennard U 5.5 ast",
+          "matchup": "Rockets @ Lakers",
+          "time": "08:40 PM ET",
+          "series": "LAL 0-0 HOU",
+          "tier": "Elite",
+          "book": "FanDuel -162"
+        },
+        {
+          "market": "props",
+          "play": "Marcus Smart U 4.5 ast",
+          "matchup": "Rockets @ Lakers",
+          "time": "08:40 PM ET",
+          "series": "LAL 0-0 HOU",
+          "tier": "Elite",
+          "book": "FanDuel -144"
+        },
         {
           "market": "props",
           "play": "Josh Hart U 4.5 ast",
