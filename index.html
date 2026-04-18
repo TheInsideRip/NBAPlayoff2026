@@ -257,7 +257,7 @@ function renderOverview(data) {
     h+='<div class="chart-box">'+buildChart(zoomed, 'cz')+'</div>';
   }
   if(o.knicks_pnl !== undefined) {
-    h+='<div class="pnl-row" style="margin-top:10px;">';
+    h+='<div class="top-row" style="margin-top:10px;">';
     h+='<div class="pnl-box" style="border-color:rgba(241,90,41,0.25);"><div class="pnl-label" style="color:#f15a29;opacity:1;">KK Knicks</div><div><span class="bubble bub-lg '+pnlBg(o.knicks_pnl)+'">'+fmt(o.knicks_pnl)+'</span></div><div class="pnl-rec">'+o.knicks_record+'</div></div>';
     h+='<div class="pnl-box" style="border-color:rgba(108,52,131,0.3);"><div class="pnl-label" style="color:#9b59b6;opacity:1;">Degen Corner</div><div><span class="bubble bub-lg '+pnlBg(o.degen_pnl)+'">'+fmt(o.degen_pnl)+'</span></div><div class="pnl-rec">'+o.degen_record+'</div></div>';
     h+='</div>';
