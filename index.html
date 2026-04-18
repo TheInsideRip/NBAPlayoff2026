@@ -176,7 +176,7 @@ function tierClass(t) {
   if (u === 'JACKPOT') return 'c-jackpot';
   if (u === 'LEAN') return 'c-lean';
   if (u === 'DEGEN') return 'c-degen';
-  if (u === 'KK SPECIAL') return 'c-knicks';
+  if (u === 'KK SPECIAL' || u === 'KK') return 'c-knicks';
   return 'c-lean';
 }
 var ML = { spreads: 'Spread / ML', totals: 'Totals', props: 'Props' };
@@ -322,7 +322,7 @@ function renderToday(data) {
     h+='<div class="section-hdr-knicks"><span class="dot"></span>KK Knicks Special</div>';
     if(t.knicks.preview) h+='<div class="knicks-preview">'+t.knicks.preview+'</div>';
     if(t.knicks.picks) {
-      t.knicks.picks.forEach(function(p){ p.tier='KK Special'; h+='<div class="card">'+renderCard(p, true)+'</div>'; });
+      t.knicks.picks.forEach(function(p){ p.tier='KK'; h+='<div class="card">'+renderCard(p, true)+'</div>'; });
     }
   }
   if(t.degen && t.degen.picks && t.degen.picks.length > 0) {
