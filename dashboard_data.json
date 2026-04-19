@@ -10,8 +10,8 @@
     "totals_record": "2W-2L",
     "props_pnl": -1.0,
     "props_record": "0W-1L",
-    "knicks_pnl": -1.0,
-    "knicks_record": "0W-1L",
+    "knicks_pnl": -1.12,
+    "knicks_record": "1W-2L",
     "degen_pnl": -4.28,
     "degen_record": "5W-9L"
   },
@@ -22,13 +22,13 @@
     }
   ],
   "yesterday": {
-    "day_pnl": -6.47,
-    "day_record": "7W-13L",
+    "day_pnl": -6.6,
+    "day_record": "8W-14L",
     "best_bet": {
       "pnl": 1.72,
       "label": "LAL ML"
     },
-    "last_10_record": "3-7",
+    "last_10_record": "4-6",
     "bets": [
       {
         "market": "props",
@@ -79,21 +79,13 @@
     "knicks": {
       "bets": [
         {
-          "market": "spreads",
-          "play": "Karl-Anthony Towns O 11.5 rebounds",
-          "matchup": "Hawks @ Knicks",
-          "time": "06:10 PM ET",
-          "series": "NYK 0-0 ATL",
-          "book": "FanDuel -118",
-          "pnl": -1.0
-        },
-        {
           "market": "other",
           "play": "Josh Hart O 10.5 points",
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "book": "FanDuel -114"
+          "book": "FanDuel -114",
+          "pnl": 0.88
         },
         {
           "market": "other",
@@ -101,7 +93,17 @@
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "book": "FanDuel -122"
+          "book": "FanDuel -122",
+          "pnl": -1.0
+        },
+        {
+          "market": "other",
+          "play": "Karl-Anthony Towns O 11.5 rebounds",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "book": "FanDuel -118",
+          "pnl": -1.0
         }
       ]
     },
