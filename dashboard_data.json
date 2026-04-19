@@ -242,6 +242,15 @@
     "first_tip": "03:40 PM ET",
     "picks": [
       {
+        "market": "props",
+        "play": "Stephon Castle U 7.5 ast",
+        "matchup": "Trail Blazers @ Spurs",
+        "time": "9:10 PM ET",
+        "series": "SAS 0-0 POR",
+        "tier": "Elite",
+        "book": "FanDuel -136"
+      },
+      {
         "market": "totals",
         "play": "UNDER 215.5",
         "matchup": "Suns @ Thunder",
@@ -259,19 +268,6 @@
         "tier": "Strong",
         "book": "FanDuel -110"
       }
-    ],
-    "degen": {
-      "picks": [
-        {
-          "market": "props",
-          "play": "Stephon Castle U 7.5 ast",
-          "matchup": "Trail Blazers @ Spurs",
-          "time": "9:10 PM ET",
-          "series": "SAS 0-0 POR",
-          "tier": "Degen",
-          "book": "FanDuel -136"
-        }
-      ]
-    }
+    ]
   }
 }
