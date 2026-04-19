@@ -1,59 +1,43 @@
 {
-  "generated_date": "April 18, 2026",
+  "generated_date": "April 19, 2026",
   "overview": {
-    "model_pnl": 0,
-    "model_record": "0-0",
-    "model_roi": 0,
-    "spreads_pnl": 0,
+    "model_pnl": -1.2,
+    "model_record": "2W-3L",
+    "model_roi": -24.0,
+    "spreads_pnl": 0.0,
     "spreads_record": "0-0",
-    "totals_pnl": 0,
-    "totals_record": "0-0",
-    "props_pnl": 0,
-    "props_record": "0-0",
-    "knicks_pnl": 0,
-    "knicks_record": "0-0",
-    "degen_pnl": 0,
-    "degen_record": "0-0"
+    "totals_pnl": -0.2,
+    "totals_record": "2W-2L",
+    "props_pnl": -1.0,
+    "props_record": "0W-1L",
+    "knicks_pnl": -1.0,
+    "knicks_record": "0W-1L",
+    "degen_pnl": -4.28,
+    "degen_record": "5W-9L"
   },
-  "cumulative_chart": [],
-  "today": {
-    "first_tip": "01:10 PM ET",
-    "picks": [
+  "cumulative_chart": [
+    {
+      "date": "2026-04-18",
+      "cumPnl": -1.2
+    }
+  ],
+  "yesterday": {
+    "day_pnl": -6.47,
+    "day_record": "7W-13L",
+    "best_bet": {
+      "pnl": 1.72,
+      "label": "LAL ML"
+    },
+    "last_10_record": "3-7",
+    "bets": [
       {
         "market": "props",
         "play": "Karl-Anthony Towns U 3.5 ast",
         "matchup": "Hawks @ Knicks",
         "time": "06:10 PM ET",
         "series": "NYK 0-0 ATL",
-        "tier": "Elite",
-        "book": "FanDuel -146"
-      },
-      {
-        "market": "spreads",
-        "play": "TOR ML",
-        "matchup": "Raptors @ Cavaliers",
-        "time": "01:10 PM ET",
-        "series": "CLE 0-0 TOR",
-        "tier": "Jackpot",
-        "book": "FanDuel +275"
-      },
-      {
-        "market": "spreads",
-        "play": "MIN ML",
-        "matchup": "Timberwolves @ Nuggets",
-        "time": "03:40 PM ET",
-        "series": "DEN 0-0 MIN",
-        "tier": "Jackpot",
-        "book": "FanDuel +220"
-      },
-      {
-        "market": "spreads",
-        "play": "ATL ML",
-        "matchup": "Hawks @ Knicks",
-        "time": "06:10 PM ET",
-        "series": "NYK 0-0 ATL",
-        "tier": "Jackpot",
-        "book": "FanDuel +190"
+        "book": "FanDuel -146",
+        "pnl": -1.0
       },
       {
         "market": "totals",
@@ -61,8 +45,8 @@
         "matchup": "Timberwolves @ Nuggets",
         "time": "03:40 PM ET",
         "series": "DEN 0-0 MIN",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "book": "FanDuel -114",
+        "pnl": -1.0
       },
       {
         "market": "totals",
@@ -70,8 +54,8 @@
         "matchup": "Raptors @ Cavaliers",
         "time": "01:10 PM ET",
         "series": "CLE 0-0 TOR",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "book": "FanDuel -114",
+        "pnl": -1.0
       },
       {
         "market": "totals",
@@ -79,8 +63,8 @@
         "matchup": "Hawks @ Knicks",
         "time": "06:10 PM ET",
         "series": "NYK 0-0 ATL",
-        "tier": "Elite",
-        "book": "FanDuel -112"
+        "book": "FanDuel -112",
+        "pnl": 0.89
       },
       {
         "market": "totals",
@@ -88,21 +72,20 @@
         "matchup": "Rockets @ Lakers",
         "time": "08:40 PM ET",
         "series": "LAL 0-0 HOU",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": 0.91
       }
     ],
     "knicks": {
-      "preview": "",
-      "picks": [
+      "bets": [
         {
           "market": "spreads",
           "play": "Karl-Anthony Towns O 11.5 rebounds",
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "tier": "KK",
-          "book": "FanDuel -118"
+          "book": "FanDuel -118",
+          "pnl": -1.0
         },
         {
           "market": "other",
@@ -110,7 +93,6 @@
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "tier": "KK",
           "book": "FanDuel -114"
         },
         {
@@ -119,21 +101,20 @@
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "tier": "KK",
           "book": "FanDuel -122"
         }
       ]
     },
     "degen": {
-      "picks": [
+      "bets": [
         {
           "market": "props",
           "play": "Luke Kennard U 5.5 ast",
           "matchup": "Rockets @ Lakers",
           "time": "08:40 PM ET",
           "series": "LAL 0-0 HOU",
-          "tier": "Elite",
-          "book": "FanDuel -162"
+          "book": "FanDuel -162",
+          "pnl": 0.62
         },
         {
           "market": "props",
@@ -141,8 +122,8 @@
           "matchup": "Rockets @ Lakers",
           "time": "08:40 PM ET",
           "series": "LAL 0-0 HOU",
-          "tier": "Elite",
-          "book": "FanDuel -144"
+          "book": "FanDuel -144",
+          "pnl": -1.0
         },
         {
           "market": "props",
@@ -150,8 +131,8 @@
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "tier": "Strong",
-          "book": "FanDuel -158"
+          "book": "FanDuel -158",
+          "pnl": -1.0
         },
         {
           "market": "props",
@@ -159,8 +140,8 @@
           "matchup": "Timberwolves @ Nuggets",
           "time": "03:40 PM ET",
           "series": "DEN 0-0 MIN",
-          "tier": "Strong",
-          "book": "FanDuel -132"
+          "book": "FanDuel -132",
+          "pnl": 0.76
         },
         {
           "market": "props",
@@ -168,8 +149,8 @@
           "matchup": "Timberwolves @ Nuggets",
           "time": "03:40 PM ET",
           "series": "DEN 0-0 MIN",
-          "tier": "Strong",
-          "book": "FanDuel -110"
+          "book": "FanDuel -110",
+          "pnl": -1.0
         },
         {
           "market": "props",
@@ -177,8 +158,8 @@
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "tier": "Strong",
-          "book": "FanDuel -106"
+          "book": "FanDuel -106",
+          "pnl": 0.94
         },
         {
           "market": "props",
@@ -186,8 +167,8 @@
           "matchup": "Rockets @ Lakers",
           "time": "08:40 PM ET",
           "series": "LAL 0-0 HOU",
-          "tier": "Strong",
-          "book": "FanDuel -102"
+          "book": "FanDuel -102",
+          "pnl": -1.0
         },
         {
           "market": "props",
@@ -195,8 +176,8 @@
           "matchup": "Hawks @ Knicks",
           "time": "06:10 PM ET",
           "series": "NYK 0-0 ATL",
-          "tier": "Strong",
-          "book": "FanDuel -146"
+          "book": "FanDuel -146",
+          "pnl": 0.68
         },
         {
           "market": "props",
@@ -204,8 +185,8 @@
           "matchup": "Rockets @ Lakers",
           "time": "08:40 PM ET",
           "series": "LAL 0-0 HOU",
-          "tier": "Strong",
-          "book": "FanDuel +112"
+          "book": "FanDuel +112",
+          "pnl": -1.0
         },
         {
           "market": "props",
@@ -213,8 +194,35 @@
           "matchup": "Raptors @ Cavaliers",
           "time": "01:10 PM ET",
           "series": "CLE 0-0 TOR",
-          "tier": "Strong",
-          "book": "FanDuel +120"
+          "book": "FanDuel +120",
+          "pnl": -1.0
+        },
+        {
+          "market": "spreads",
+          "play": "TOR ML",
+          "matchup": "Raptors @ Cavaliers",
+          "time": "01:10 PM ET",
+          "series": "CLE 0-0 TOR",
+          "book": "FanDuel +275",
+          "pnl": -1.0
+        },
+        {
+          "market": "spreads",
+          "play": "MIN ML",
+          "matchup": "Timberwolves @ Nuggets",
+          "time": "03:40 PM ET",
+          "series": "DEN 0-0 MIN",
+          "book": "FanDuel +220",
+          "pnl": -1.0
+        },
+        {
+          "market": "spreads",
+          "play": "ATL ML",
+          "matchup": "Hawks @ Knicks",
+          "time": "06:10 PM ET",
+          "series": "NYK 0-0 ATL",
+          "book": "FanDuel +190",
+          "pnl": -1.0
         },
         {
           "market": "spreads",
@@ -222,8 +230,8 @@
           "matchup": "Rockets @ Lakers",
           "time": "08:40 PM ET",
           "series": "LAL 0-0 HOU",
-          "tier": "Jackpot",
-          "book": "FanDuel +172"
+          "book": "FanDuel +172",
+          "pnl": 1.72
         }
       ]
     }
