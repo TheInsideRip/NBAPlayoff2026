@@ -85,6 +85,29 @@
         "book": "FanDuel -112"
       }
     ],
+    "knicks": {
+      "preview": "",
+      "picks": [
+        {
+          "market": "other",
+          "play": "OG Anunoby U 15.5 pts",
+          "matchup": "Hawks @ Knicks",
+          "time": "08:10 PM ET",
+          "series": "NYK leads 1-0",
+          "tier": "KK",
+          "book": "FanDuel +100"
+        },
+        {
+          "market": "other",
+          "play": "Karl-Anthony Towns U 11.5 reb",
+          "matchup": "Hawks @ Knicks",
+          "time": "08:10 PM ET",
+          "series": "NYK leads 1-0",
+          "tier": "KK",
+          "book": "FanDuel +100"
+        }
+      ]
+    },
     "degen": {
       "picks": [
         {
