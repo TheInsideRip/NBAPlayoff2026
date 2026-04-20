@@ -65,9 +65,37 @@
   },
   "today": {
     "first_tip": "08:10 PM ET",
-    "picks": [],
+    "picks": [
+      {
+        "market": "totals",
+        "play": "OVER 231.5",
+        "matchup": "Timberwolves @ Nuggets",
+        "time": "10:40 PM ET",
+        "series": "DEN leads 1-0",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 217.5",
+        "matchup": "Hawks @ Knicks",
+        "time": "08:10 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Elite",
+        "book": "FanDuel -112"
+      }
+    ],
     "degen": {
       "picks": [
+        {
+          "market": "props",
+          "play": "C.J. McCollum U 3.5 ast",
+          "matchup": "Hawks @ Knicks",
+          "time": "08:10 PM ET",
+          "series": "NYK leads 1-0",
+          "tier": "Strong",
+          "book": "FanDuel +104"
+        },
         {
           "market": "props",
           "play": "Ayo Dosunmu U 2.5 ast",
@@ -78,22 +106,13 @@
           "book": "FanDuel +116"
         },
         {
-          "market": "totals",
-          "play": "OVER 231.5",
+          "market": "props",
+          "play": "Donte DiVincenzo U 2.5 ast",
           "matchup": "Timberwolves @ Nuggets",
           "time": "10:40 PM ET",
           "series": "DEN leads 1-0",
           "tier": "Strong",
-          "book": "FanDuel -114"
-        },
-        {
-          "market": "totals",
-          "play": "UNDER 217.5",
-          "matchup": "Hawks @ Knicks",
-          "time": "08:10 PM ET",
-          "series": "NYK leads 1-0",
-          "tier": "Elite",
-          "book": "FanDuel -112"
+          "book": "FanDuel +130"
         }
       ]
     }
