@@ -62,5 +62,40 @@
         "pnl": 0.91
       }
     ]
+  },
+  "today": {
+    "first_tip": "08:10 PM ET",
+    "picks": [],
+    "degen": {
+      "picks": [
+        {
+          "market": "props",
+          "play": "Ayo Dosunmu U 2.5 ast",
+          "matchup": "Timberwolves @ Nuggets",
+          "time": "10:40 PM ET",
+          "series": "DEN leads 1-0",
+          "tier": "Strong",
+          "book": "FanDuel +116"
+        },
+        {
+          "market": "totals",
+          "play": "OVER 231.5",
+          "matchup": "Timberwolves @ Nuggets",
+          "time": "10:40 PM ET",
+          "series": "DEN leads 1-0",
+          "tier": "Strong",
+          "book": "FanDuel -114"
+        },
+        {
+          "market": "totals",
+          "play": "UNDER 217.5",
+          "matchup": "Hawks @ Knicks",
+          "time": "08:10 PM ET",
+          "series": "NYK leads 1-0",
+          "tier": "Elite",
+          "book": "FanDuel -112"
+        }
+      ]
+    }
   }
 }
