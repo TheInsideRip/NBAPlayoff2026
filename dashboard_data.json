@@ -1,19 +1,19 @@
 {
-  "generated_date": "April 20, 2026",
+  "generated_date": "April 21, 2026",
   "overview": {
-    "model_pnl": 1.32,
-    "model_record": "5W-3L",
-    "model_roi": 16.4,
+    "model_pnl": 3.09,
+    "model_record": "7W-3L",
+    "model_roi": 30.9,
     "spreads_pnl": 0.0,
     "spreads_record": "0-0",
-    "totals_pnl": 1.58,
-    "totals_record": "4W-2L",
+    "totals_pnl": 3.35,
+    "totals_record": "6W-2L",
     "props_pnl": -0.26,
     "props_record": "1W-1L",
-    "knicks_pnl": -1.12,
-    "knicks_record": "1W-2L",
-    "degen_pnl": -4.28,
-    "degen_record": "5W-9L"
+    "knicks_pnl": 0.88,
+    "knicks_record": "3W-2L",
+    "degen_pnl": -7.28,
+    "degen_record": "5W-12L"
   },
   "cumulative_chart": [
     {
@@ -23,119 +23,90 @@
     {
       "date": "2026-04-19",
       "cumPnl": 1.32
+    },
+    {
+      "date": "2026-04-20",
+      "cumPnl": 3.09
     }
   ],
   "yesterday": {
-    "day_pnl": 2.51,
-    "day_record": "3W-0L",
+    "day_pnl": 0.77,
+    "day_record": "4W-3L",
     "best_bet": {
-      "pnl": 0.91,
-      "label": "UNDER 219.5"
+      "pnl": 1.0,
+      "label": "OG Anunoby U 15.5 pts"
     },
-    "last_10_record": "5-5",
+    "last_10_record": "7-3",
     "bets": [
-      {
-        "market": "props",
-        "play": "Stephon Castle U 7.5 ast",
-        "matchup": "Trail Blazers @ Spurs",
-        "time": "9:10 PM ET",
-        "series": "SAS leads 1-0",
-        "book": "FanDuel -136",
-        "pnl": 0.74
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 215.5",
-        "matchup": "Suns @ Thunder",
-        "time": "03:40 PM ET",
-        "series": "OKC leads 1-0",
-        "book": "FanDuel -115",
-        "pnl": 0.87
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 219.5",
-        "matchup": "Magic @ Pistons",
-        "time": "06:40 PM ET",
-        "series": "ORL leads 1-0",
-        "book": "FanDuel -110",
-        "pnl": 0.91
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "08:10 PM ET",
-    "picks": [
       {
         "market": "totals",
         "play": "OVER 231.5",
         "matchup": "Timberwolves @ Nuggets",
         "time": "10:40 PM ET",
-        "series": "DEN leads 1-0",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "series": "Tied 1-1",
+        "book": "FanDuel -114",
+        "pnl": 0.88
       },
       {
         "market": "totals",
         "play": "UNDER 217.5",
         "matchup": "Hawks @ Knicks",
         "time": "08:10 PM ET",
-        "series": "NYK leads 1-0",
-        "tier": "Elite",
-        "book": "FanDuel -112"
+        "series": "Tied 1-1",
+        "book": "FanDuel -112",
+        "pnl": 0.89
       }
     ],
     "knicks": {
-      "preview": "",
-      "picks": [
+      "bets": [
         {
           "market": "other",
           "play": "OG Anunoby U 15.5 pts",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "NYK leads 1-0",
-          "tier": "KK",
-          "book": "FanDuel +100"
+          "series": "Tied 1-1",
+          "book": "FanDuel +100",
+          "pnl": 1.0
         },
         {
           "market": "other",
           "play": "Karl-Anthony Towns U 11.5 reb",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "NYK leads 1-0",
-          "tier": "KK",
-          "book": "FanDuel +100"
+          "series": "Tied 1-1",
+          "book": "FanDuel +100",
+          "pnl": 1.0
         }
       ]
     },
     "degen": {
-      "picks": [
+      "bets": [
         {
           "market": "props",
           "play": "C.J. McCollum U 3.5 ast",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "NYK leads 1-0",
-          "tier": "Strong",
-          "book": "FanDuel +104"
+          "series": "Tied 1-1",
+          "book": "FanDuel +104",
+          "pnl": -1.0
         },
         {
           "market": "props",
           "play": "Ayo Dosunmu U 2.5 ast",
           "matchup": "Timberwolves @ Nuggets",
           "time": "10:40 PM ET",
-          "series": "DEN leads 1-0",
-          "tier": "Strong",
-          "book": "FanDuel +116"
+          "series": "Tied 1-1",
+          "book": "FanDuel +116",
+          "pnl": -1.0
         },
         {
           "market": "props",
           "play": "Donte DiVincenzo U 2.5 ast",
           "matchup": "Timberwolves @ Nuggets",
           "time": "10:40 PM ET",
-          "series": "DEN leads 1-0",
-          "tier": "Strong",
-          "book": "FanDuel +130"
+          "series": "Tied 1-1",
+          "book": "FanDuel +130",
+          "pnl": -1.0
         }
       ]
     }
