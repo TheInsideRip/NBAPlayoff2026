@@ -110,5 +110,37 @@
         }
       ]
     }
+  },
+  "today": {
+    "first_tip": "07:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Marcus Smart U 4.5 ast",
+        "matchup": "Rockets @ Lakers",
+        "time": "10:40 PM ET",
+        "series": "LAL leads 1-0",
+        "tier": "Elite",
+        "book": "FanDuel +114"
+      },
+      {
+        "market": "props",
+        "play": "Luke Kennard U 3.5 ast",
+        "matchup": "Rockets @ Lakers",
+        "time": "10:40 PM ET",
+        "series": "LAL leads 1-0",
+        "tier": "Elite",
+        "book": "FanDuel +102"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 217.5",
+        "matchup": "76ers @ Celtics",
+        "time": "07:10 PM ET",
+        "series": "BOS leads 1-0",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      }
+    ]
   }
 }
