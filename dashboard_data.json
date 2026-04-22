@@ -72,38 +72,7 @@
     ]
   },
   "today": {
-    "first_tip": "07:10 PM ET",
-    "picks": [],
-    "degen": {
-      "picks": [
-        {
-          "market": "props",
-          "play": "Jalen Green U 2.5 ast",
-          "matchup": "Suns @ Thunder",
-          "time": "09:40 PM ET",
-          "series": "OKC leads 1-0",
-          "tier": "Strong",
-          "book": "FanDuel +134"
-        },
-        {
-          "market": "props",
-          "play": "Dillon Brooks U 1.5 ast",
-          "matchup": "Suns @ Thunder",
-          "time": "09:40 PM ET",
-          "series": "OKC leads 1-0",
-          "tier": "Strong",
-          "book": "FanDuel -108"
-        },
-        {
-          "market": "spreads",
-          "play": "ORL ML",
-          "matchup": "Magic @ Pistons",
-          "time": "07:10 PM ET",
-          "series": "ORL leads 1-0",
-          "tier": "Degen",
-          "book": "FanDuel +295"
-        }
-      ]
-    }
+    "first_tip": "TBD",
+    "picks": []
   }
 }
