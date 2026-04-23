@@ -69,6 +69,33 @@
         "series": "Tied 1-1",
         "tier": "Strong",
         "book": "FanDuel -104"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 232.5",
+        "matchup": "Nuggets @ Timberwolves",
+        "time": "09:30 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -112"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 214.5",
+        "matchup": "Knicks @ Hawks",
+        "time": "07:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Elite",
+        "book": "FanDuel -108"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 221.5",
+        "matchup": "Cavaliers @ Raptors",
+        "time": "08:10 PM ET",
+        "series": "CLE leads 2-0",
+        "tier": "Strong",
+        "book": "FanDuel -108"
       }
     ],
     "knicks": {
@@ -113,33 +140,6 @@
           "series": "Tied 1-1",
           "tier": "Lean",
           "book": "FanDuel -104"
-        },
-        {
-          "market": "totals",
-          "play": "OVER 232.5",
-          "matchup": "Nuggets @ Timberwolves",
-          "time": "09:30 PM ET",
-          "series": "Tied 1-1",
-          "tier": "Strong",
-          "book": "FanDuel -112"
-        },
-        {
-          "market": "totals",
-          "play": "UNDER 214.5",
-          "matchup": "Knicks @ Hawks",
-          "time": "07:10 PM ET",
-          "series": "Tied 1-1",
-          "tier": "Elite",
-          "book": "FanDuel -108"
-        },
-        {
-          "market": "totals",
-          "play": "UNDER 221.5",
-          "matchup": "Cavaliers @ Raptors",
-          "time": "08:10 PM ET",
-          "series": "CLE leads 2-0",
-          "tier": "Strong",
-          "book": "FanDuel -108"
         }
       ]
     }
