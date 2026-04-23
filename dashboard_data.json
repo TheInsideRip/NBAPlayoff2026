@@ -39,5 +39,109 @@
     "best_bet": null,
     "last_10_record": "5-5",
     "bets": []
+  },
+  "today": {
+    "first_tip": "07:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Josh Hart U 4.5 ast",
+        "matchup": "Knicks @ Hawks",
+        "time": "07:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -113"
+      },
+      {
+        "market": "props",
+        "play": "C.J. McCollum U 3.5 ast",
+        "matchup": "Knicks @ Hawks",
+        "time": "07:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel +120"
+      },
+      {
+        "market": "spreads",
+        "play": "DEN -2.5",
+        "matchup": "Nuggets @ Timberwolves",
+        "time": "09:30 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -104"
+      }
+    ],
+    "knicks": {
+      "preview": "",
+      "picks": [
+        {
+          "market": "other",
+          "play": "Mitchell Robinson O 4.5 pts",
+          "matchup": "Knicks @ Hawks",
+          "time": "07:10 PM ET",
+          "series": "Tied 1-1",
+          "tier": "KK",
+          "book": "FanDuel -113"
+        },
+        {
+          "market": "other",
+          "play": "Karl-Anthony Towns U 19.5 pts",
+          "matchup": "Knicks @ Hawks",
+          "time": "07:10 PM ET",
+          "series": "Tied 1-1",
+          "tier": "KK",
+          "book": "FanDuel -111"
+        },
+        {
+          "market": "other",
+          "play": "C.J. McCollum U 19.5 pts",
+          "matchup": "Knicks @ Hawks",
+          "time": "07:10 PM ET",
+          "series": "Tied 1-1",
+          "tier": "KK",
+          "book": "FanDuel -113"
+        }
+      ]
+    },
+    "degen": {
+      "picks": [
+        {
+          "market": "spreads",
+          "play": "NYK -1.5",
+          "matchup": "Knicks @ Hawks",
+          "time": "07:10 PM ET",
+          "series": "Tied 1-1",
+          "tier": "Lean",
+          "book": "FanDuel -104"
+        },
+        {
+          "market": "totals",
+          "play": "OVER 232.5",
+          "matchup": "Nuggets @ Timberwolves",
+          "time": "09:30 PM ET",
+          "series": "Tied 1-1",
+          "tier": "Strong",
+          "book": "FanDuel -112"
+        },
+        {
+          "market": "totals",
+          "play": "UNDER 214.5",
+          "matchup": "Knicks @ Hawks",
+          "time": "07:10 PM ET",
+          "series": "Tied 1-1",
+          "tier": "Elite",
+          "book": "FanDuel -108"
+        },
+        {
+          "market": "totals",
+          "play": "UNDER 221.5",
+          "matchup": "Cavaliers @ Raptors",
+          "time": "08:10 PM ET",
+          "series": "CLE leads 2-0",
+          "tier": "Strong",
+          "book": "FanDuel -108"
+        }
+      ]
+    }
   }
 }
