@@ -1,5 +1,5 @@
 {
-  "generated_date": "April 22, 2026",
+  "generated_date": "April 23, 2026",
   "overview": {
     "model_pnl": 2.11,
     "model_record": "8W-5L",
@@ -34,45 +34,10 @@
     }
   ],
   "yesterday": {
-    "day_pnl": -0.98,
-    "day_record": "1W-2L",
-    "best_bet": {
-      "pnl": 1.02,
-      "label": "Luke Kennard U 3.5 ast"
-    },
+    "day_pnl": 0.0,
+    "day_record": "0-0",
+    "best_bet": null,
     "last_10_record": "5-5",
-    "bets": [
-      {
-        "market": "props",
-        "play": "Marcus Smart U 4.5 ast",
-        "matchup": "Rockets @ Lakers",
-        "time": "10:40 PM ET",
-        "series": "LAL leads 2-0",
-        "book": "FanDuel +114",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Luke Kennard U 3.5 ast",
-        "matchup": "Rockets @ Lakers",
-        "time": "10:40 PM ET",
-        "series": "LAL leads 2-0",
-        "book": "FanDuel +102",
-        "pnl": 1.02
-      },
-      {
-        "market": "totals",
-        "play": "OVER 217.5",
-        "matchup": "76ers @ Celtics",
-        "time": "07:10 PM ET",
-        "series": "Tied 1-1",
-        "book": "FanDuel -110",
-        "pnl": -1.0
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "TBD",
-    "picks": []
+    "bets": []
   }
 }
