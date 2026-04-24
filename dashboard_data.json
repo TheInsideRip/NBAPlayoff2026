@@ -145,5 +145,55 @@
         }
       ]
     }
+  },
+  "today": {
+    "first_tip": "08:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Marcus Smart U 4.5 ast",
+        "matchup": "Lakers @ Rockets",
+        "time": "08:10 PM ET",
+        "series": "LAL leads 2-0",
+        "tier": "Elite",
+        "book": "FanDuel -125"
+      },
+      {
+        "market": "props",
+        "play": "Luke Kennard U 3.5 ast",
+        "matchup": "Lakers @ Rockets",
+        "time": "08:10 PM ET",
+        "series": "LAL leads 2-0",
+        "tier": "Elite",
+        "book": "FanDuel -142"
+      },
+      {
+        "market": "props",
+        "play": "Jrue Holiday U 6.5 ast",
+        "matchup": "Spurs @ Trail Blazers",
+        "time": "10:40 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Elite",
+        "book": "FanDuel -125"
+      },
+      {
+        "market": "props",
+        "play": "Devin Vassell U 2.5 ast",
+        "matchup": "Spurs @ Trail Blazers",
+        "time": "10:40 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Elite",
+        "book": "FanDuel -136"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 219.5",
+        "matchup": "Spurs @ Trail Blazers",
+        "time": "10:40 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      }
+    ]
   }
 }
