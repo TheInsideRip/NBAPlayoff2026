@@ -96,5 +96,46 @@
         "pnl": -1.0
       }
     ]
+  },
+  "today": {
+    "first_tip": "01:10 PM ET",
+    "picks": [
+      {
+        "market": "spreads",
+        "play": "DET -2.5",
+        "matchup": "Pistons @ Magic",
+        "time": "01:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Lean",
+        "book": "FanDuel -105"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 229.5",
+        "matchup": "Nuggets @ Timberwolves",
+        "time": "08:40 PM ET",
+        "series": "MIN leads 2-1",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 215.5",
+        "matchup": "Pistons @ Magic",
+        "time": "01:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Elite",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 214.5",
+        "matchup": "Knicks @ Hawks",
+        "time": "06:10 PM ET",
+        "series": "ATL leads 2-1",
+        "tier": "Elite",
+        "book": "FanDuel -106"
+      }
+    ]
   }
 }
