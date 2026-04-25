@@ -1,15 +1,15 @@
 {
-  "generated_date": "April 24, 2026",
+  "generated_date": "April 25, 2026",
   "overview": {
-    "model_pnl": -1.69,
-    "model_record": "9W-10L",
-    "model_roi": -8.9,
+    "model_pnl": -4.89,
+    "model_record": "10W-14L",
+    "model_roi": -20.4,
     "spreads_pnl": -1.0,
     "spreads_record": "0W-1L",
-    "totals_pnl": -0.65,
-    "totals_record": "6W-6L",
-    "props_pnl": -0.04,
-    "props_record": "3W-3L",
+    "totals_pnl": -1.65,
+    "totals_record": "6W-7L",
+    "props_pnl": -2.24,
+    "props_record": "4W-6L",
     "knicks_pnl": -2.12,
     "knicks_record": "3W-5L",
     "degen_pnl": -8.28,
@@ -35,164 +35,65 @@
     {
       "date": "2026-04-23",
       "cumPnl": -1.69
+    },
+    {
+      "date": "2026-04-24",
+      "cumPnl": -4.89
     }
   ],
   "yesterday": {
-    "day_pnl": -7.8,
-    "day_record": "1W-9L",
+    "day_pnl": -3.2,
+    "day_record": "1W-4L",
     "best_bet": {
-      "pnl": 1.2,
-      "label": "C.J. McCollum U 3.5 ast"
+      "pnl": 0.8,
+      "label": "Jrue Holiday U 6.5 ast"
     },
-    "last_10_record": "1-9",
+    "last_10_record": "2-8",
     "bets": [
-      {
-        "market": "props",
-        "play": "Josh Hart U 4.5 ast",
-        "matchup": "Knicks @ Hawks",
-        "time": "07:10 PM ET",
-        "series": "ATL leads 2-1",
-        "book": "FanDuel -113",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "C.J. McCollum U 3.5 ast",
-        "matchup": "Knicks @ Hawks",
-        "time": "07:10 PM ET",
-        "series": "ATL leads 2-1",
-        "book": "FanDuel +120",
-        "pnl": 1.2
-      },
-      {
-        "market": "spreads",
-        "play": "DEN -2.5",
-        "matchup": "Nuggets @ Timberwolves",
-        "time": "09:30 PM ET",
-        "series": "MIN leads 2-1",
-        "book": "FanDuel -104",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "OVER 232.5",
-        "matchup": "Nuggets @ Timberwolves",
-        "time": "09:30 PM ET",
-        "series": "MIN leads 2-1",
-        "book": "FanDuel -112",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 214.5",
-        "matchup": "Knicks @ Hawks",
-        "time": "07:10 PM ET",
-        "series": "ATL leads 2-1",
-        "book": "FanDuel -108",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 221.5",
-        "matchup": "Cavaliers @ Raptors",
-        "time": "08:10 PM ET",
-        "series": "CLE leads 2-1",
-        "book": "FanDuel -108",
-        "pnl": -1.0
-      }
-    ],
-    "knicks": {
-      "bets": [
-        {
-          "market": "other",
-          "play": "Mitchell Robinson O 4.5 pts",
-          "matchup": "Knicks @ Hawks",
-          "time": "07:10 PM ET",
-          "series": "ATL leads 2-1",
-          "book": "FanDuel -113",
-          "pnl": -1.0
-        },
-        {
-          "market": "other",
-          "play": "Karl-Anthony Towns U 19.5 pts",
-          "matchup": "Knicks @ Hawks",
-          "time": "07:10 PM ET",
-          "series": "ATL leads 2-1",
-          "book": "FanDuel -111",
-          "pnl": -1.0
-        },
-        {
-          "market": "other",
-          "play": "C.J. McCollum U 19.5 pts",
-          "matchup": "Knicks @ Hawks",
-          "time": "07:10 PM ET",
-          "series": "ATL leads 2-1",
-          "book": "FanDuel -113",
-          "pnl": -1.0
-        }
-      ]
-    },
-    "degen": {
-      "bets": [
-        {
-          "market": "spreads",
-          "play": "NYK -1.5",
-          "matchup": "Knicks @ Hawks",
-          "time": "07:10 PM ET",
-          "series": "ATL leads 2-1",
-          "book": "FanDuel -104",
-          "pnl": -1.0
-        }
-      ]
-    }
-  },
-  "today": {
-    "first_tip": "08:10 PM ET",
-    "picks": [
       {
         "market": "props",
         "play": "Marcus Smart U 4.5 ast",
         "matchup": "Lakers @ Rockets",
         "time": "08:10 PM ET",
-        "series": "LAL leads 2-0",
-        "tier": "Elite",
-        "book": "FanDuel -125"
+        "series": "LAL leads 3-0",
+        "book": "FanDuel -125",
+        "pnl": -1.0
       },
       {
         "market": "props",
         "play": "Luke Kennard U 3.5 ast",
         "matchup": "Lakers @ Rockets",
         "time": "08:10 PM ET",
-        "series": "LAL leads 2-0",
-        "tier": "Elite",
-        "book": "FanDuel -142"
+        "series": "LAL leads 3-0",
+        "book": "FanDuel -142",
+        "pnl": -1.0
       },
       {
         "market": "props",
         "play": "Jrue Holiday U 6.5 ast",
         "matchup": "Spurs @ Trail Blazers",
         "time": "10:40 PM ET",
-        "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -125"
+        "series": "SAS leads 2-1",
+        "book": "FanDuel -125",
+        "pnl": 0.8
       },
       {
         "market": "props",
         "play": "Devin Vassell U 2.5 ast",
         "matchup": "Spurs @ Trail Blazers",
         "time": "10:40 PM ET",
-        "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -136"
+        "series": "SAS leads 2-1",
+        "book": "FanDuel -136",
+        "pnl": -1.0
       },
       {
         "market": "totals",
         "play": "UNDER 219.5",
         "matchup": "Spurs @ Trail Blazers",
         "time": "10:40 PM ET",
-        "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "series": "SAS leads 2-1",
+        "book": "FanDuel -110",
+        "pnl": -1.0
       }
     ]
   }
