@@ -91,5 +91,86 @@
         "pnl": 0.94
       }
     ]
+  },
+  "today": {
+    "first_tip": "01:10 PM ET",
+    "picks": [
+      {
+        "market": "spreads",
+        "play": "POR +5.0",
+        "matchup": "Spurs @ Trail Blazers",
+        "time": "03:40 PM ET",
+        "series": "SAS leads 2-1",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 213.5",
+        "matchup": "Celtics @ 76ers",
+        "time": "07:10 PM ET",
+        "series": "BOS leads 2-1",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      }
+    ],
+    "degen": {
+      "picks": [
+        {
+          "market": "props",
+          "play": "Marcus Smart U 4.5 ast",
+          "matchup": "Lakers @ Rockets",
+          "time": "09:40 PM ET",
+          "series": "LAL leads 3-0",
+          "tier": "Elite",
+          "book": "FanDuel -102"
+        },
+        {
+          "market": "props",
+          "play": "Luke Kennard U 2.5 ast",
+          "matchup": "Lakers @ Rockets",
+          "time": "09:40 PM ET",
+          "series": "LAL leads 3-0",
+          "tier": "Elite",
+          "book": "FanDuel +128"
+        },
+        {
+          "market": "props",
+          "play": "Jrue Holiday U 6.5 ast",
+          "matchup": "Spurs @ Trail Blazers",
+          "time": "03:40 PM ET",
+          "series": "SAS leads 2-1",
+          "tier": "Elite",
+          "book": "FanDuel -146"
+        },
+        {
+          "market": "props",
+          "play": "Reed Sheppard U 3.5 ast",
+          "matchup": "Lakers @ Rockets",
+          "time": "09:40 PM ET",
+          "series": "LAL leads 3-0",
+          "tier": "Elite",
+          "book": "FanDuel -136"
+        },
+        {
+          "market": "props",
+          "play": "Jamal Shead U 5.5 ast",
+          "matchup": "Cavaliers @ Raptors",
+          "time": "01:10 PM ET",
+          "series": "CLE leads 2-1",
+          "tier": "Elite",
+          "book": "FanDuel -148"
+        },
+        {
+          "market": "props",
+          "play": "Devin Vassell U 2.5 ast",
+          "matchup": "Spurs @ Trail Blazers",
+          "time": "03:40 PM ET",
+          "series": "SAS leads 2-1",
+          "tier": "Elite",
+          "book": "FanDuel -150"
+        }
+      ]
+    }
   }
 }
