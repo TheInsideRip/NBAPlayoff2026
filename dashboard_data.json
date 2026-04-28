@@ -148,5 +148,91 @@
         }
       ]
     }
+  },
+  "today": {
+    "first_tip": "07:10 PM ET",
+    "picks": [
+      {
+        "market": "totals",
+        "play": "OVER 214.5",
+        "matchup": "76ers @ Celtics",
+        "time": "07:10 PM ET",
+        "series": "BOS leads 3-1",
+        "tier": "Strong",
+        "book": "FanDuel -112"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 217.5",
+        "matchup": "Trail Blazers @ Spurs",
+        "time": "09:40 PM ET",
+        "series": "SAS leads 3-1",
+        "tier": "Strong",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 213.5",
+        "matchup": "Hawks @ Knicks",
+        "time": "08:10 PM ET",
+        "series": "Tied 2-2",
+        "tier": "Elite",
+        "book": "FanDuel -106"
+      }
+    ],
+    "knicks": {
+      "preview": "",
+      "picks": [
+        {
+          "market": "props",
+          "play": "Karl-Anthony Towns U 3.5 ast",
+          "matchup": "Hawks @ Knicks",
+          "time": "08:10 PM ET",
+          "series": "Tied 2-2",
+          "tier": "Elite",
+          "book": "FanDuel -108"
+        },
+        {
+          "market": "props",
+          "play": "Josh Hart U 4.5 ast",
+          "matchup": "Hawks @ Knicks",
+          "time": "08:10 PM ET",
+          "series": "Tied 2-2",
+          "tier": "Strong",
+          "book": "FanDuel +112"
+        },
+        {
+          "market": "props",
+          "play": "C.J. McCollum U 3.5 ast",
+          "matchup": "Hawks @ Knicks",
+          "time": "08:10 PM ET",
+          "series": "Tied 2-2",
+          "tier": "Strong",
+          "book": "FanDuel +104"
+        }
+      ]
+    },
+    "degen": {
+      "picks": [
+        {
+          "market": "props",
+          "play": "Victor Wembanyama U 3.5 ast",
+          "matchup": "Trail Blazers @ Spurs",
+          "time": "09:40 PM ET",
+          "series": "SAS leads 3-1",
+          "tier": "Elite",
+          "book": "FanDuel -172"
+        },
+        {
+          "market": "props",
+          "play": "Devin Vassell U 2.5 ast",
+          "matchup": "Trail Blazers @ Spurs",
+          "time": "09:40 PM ET",
+          "series": "SAS leads 3-1",
+          "tier": "Elite",
+          "book": "FanDuel -146"
+        }
+      ]
+    }
   }
 }
