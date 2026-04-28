@@ -67,7 +67,7 @@
         "play": "DEN -11.5",
         "matchup": "Timberwolves @ Nuggets",
         "time": "10:40 PM ET",
-        "series": "MIN leads 3-2",
+        "series": "Tied 3-3",
         "book": "FanDuel -112",
         "pnl": 0.89
       },
@@ -76,7 +76,7 @@
         "play": "OVER 215.5",
         "matchup": "Thunder @ Suns",
         "time": "09:40 PM ET",
-        "series": "OKC leads 4-0",
+        "series": "OKC leads 5-0",
         "book": "FanDuel -108",
         "pnl": 0.93
       },
@@ -85,7 +85,7 @@
         "play": "OVER 224.5",
         "matchup": "Timberwolves @ Nuggets",
         "time": "10:40 PM ET",
-        "series": "MIN leads 3-2",
+        "series": "Tied 3-3",
         "book": "FanDuel -114",
         "pnl": 0.88
       },
@@ -94,7 +94,7 @@
         "play": "UNDER 215.5",
         "matchup": "Pistons @ Magic",
         "time": "08:10 PM ET",
-        "series": "ORL leads 3-1",
+        "series": "ORL leads 4-1",
         "book": "FanDuel -115",
         "pnl": 0.87
       }
@@ -106,7 +106,7 @@
           "play": "Ayo Dosunmu U 4.5 ast",
           "matchup": "Timberwolves @ Nuggets",
           "time": "10:40 PM ET",
-          "series": "MIN leads 3-2",
+          "series": "Tied 3-3",
           "book": "FanDuel -106",
           "pnl": 0.94
         },
@@ -115,7 +115,7 @@
           "play": "Bones Hyland U 3.5 ast",
           "matchup": "Timberwolves @ Nuggets",
           "time": "10:40 PM ET",
-          "series": "MIN leads 3-2",
+          "series": "Tied 3-3",
           "book": "FanDuel -162",
           "pnl": 0.62
         },
@@ -124,7 +124,7 @@
           "play": "Mike Conley U 3.5 ast",
           "matchup": "Timberwolves @ Nuggets",
           "time": "10:40 PM ET",
-          "series": "MIN leads 3-2",
+          "series": "Tied 3-3",
           "book": "FanDuel +114",
           "pnl": -1.0
         },
@@ -133,7 +133,7 @@
           "play": "Jalen Green U 3.5 ast",
           "matchup": "Thunder @ Suns",
           "time": "09:40 PM ET",
-          "series": "OKC leads 4-0",
+          "series": "OKC leads 5-0",
           "book": "FanDuel -162",
           "pnl": -1.0
         },
@@ -142,7 +142,7 @@
           "play": "Oso Ighodaro U 2.5 ast",
           "matchup": "Thunder @ Suns",
           "time": "09:40 PM ET",
-          "series": "OKC leads 4-0",
+          "series": "OKC leads 5-0",
           "book": "FanDuel +104",
           "pnl": -1.0
         }
