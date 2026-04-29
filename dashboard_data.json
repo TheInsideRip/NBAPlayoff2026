@@ -147,5 +147,28 @@
         }
       ]
     }
+  },
+  "today": {
+    "first_tip": "7:10 PM ET",
+    "picks": [
+      {
+        "market": "spreads",
+        "play": "ORL +10.5",
+        "matchup": "Magic @ Pistons",
+        "time": "7:10 PM ET",
+        "series": "ORL leads 4-1",
+        "tier": "Lean",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 219.5",
+        "matchup": "Raptors @ Cavaliers",
+        "time": "7:40 PM ET",
+        "series": "Tied 2-2",
+        "tier": "Strong",
+        "book": "FanDuel -108"
+      }
+    ]
   }
 }
