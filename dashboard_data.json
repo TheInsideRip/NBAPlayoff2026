@@ -71,7 +71,7 @@
         "play": "OVER 214.5",
         "matchup": "76ers @ Celtics",
         "time": "07:10 PM ET",
-        "series": "BOS leads 3-2",
+        "series": "Tied 3-3",
         "book": "FanDuel -112",
         "pnl": -1.0
       },
@@ -80,7 +80,7 @@
         "play": "OVER 217.5",
         "matchup": "Trail Blazers @ Spurs",
         "time": "09:40 PM ET",
-        "series": "SAS leads 4-1",
+        "series": "SAS leads 5-1",
         "book": "FanDuel -106",
         "pnl": -1.0
       },
@@ -89,7 +89,7 @@
         "play": "UNDER 213.5",
         "matchup": "Hawks @ Knicks",
         "time": "08:10 PM ET",
-        "series": "NYK leads 3-2",
+        "series": "NYK leads 4-2",
         "book": "FanDuel -106",
         "pnl": -1.0
       }
@@ -101,7 +101,7 @@
           "play": "Karl-Anthony Towns U 3.5 ast",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "NYK leads 3-2",
+          "series": "NYK leads 4-2",
           "book": "FanDuel -108",
           "pnl": -1.0
         },
@@ -110,7 +110,7 @@
           "play": "Josh Hart U 4.5 ast",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "NYK leads 3-2",
+          "series": "NYK leads 4-2",
           "book": "FanDuel +112",
           "pnl": 1.12
         },
@@ -119,7 +119,7 @@
           "play": "C.J. McCollum U 3.5 ast",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "NYK leads 3-2",
+          "series": "NYK leads 4-2",
           "book": "FanDuel +104",
           "pnl": 1.04
         }
@@ -132,7 +132,7 @@
           "play": "Victor Wembanyama U 3.5 ast",
           "matchup": "Trail Blazers @ Spurs",
           "time": "09:40 PM ET",
-          "series": "SAS leads 4-1",
+          "series": "SAS leads 5-1",
           "book": "FanDuel -172",
           "pnl": 0.58
         },
@@ -141,7 +141,7 @@
           "play": "Devin Vassell U 2.5 ast",
           "matchup": "Trail Blazers @ Spurs",
           "time": "09:40 PM ET",
-          "series": "SAS leads 4-1",
+          "series": "SAS leads 5-1",
           "book": "FanDuel -146",
           "pnl": 0.68
         }
