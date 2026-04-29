@@ -1,19 +1,19 @@
 {
-  "generated_date": "April 28, 2026",
+  "generated_date": "April 29, 2026",
   "overview": {
-    "model_pnl": -3.51,
-    "model_record": "16W-18L",
-    "model_roi": -10.3,
+    "model_pnl": -6.51,
+    "model_record": "16W-21L",
+    "model_roi": -17.6,
     "spreads_pnl": -2.11,
     "spreads_record": "1W-3L",
-    "totals_pnl": 0.84,
-    "totals_record": "11W-9L",
+    "totals_pnl": -2.16,
+    "totals_record": "11W-12L",
     "props_pnl": -2.24,
     "props_record": "4W-6L",
-    "knicks_pnl": -2.12,
-    "knicks_record": "3W-5L",
-    "degen_pnl": -8.34,
-    "degen_record": "11W-18L"
+    "knicks_pnl": -0.96,
+    "knicks_record": "5W-6L",
+    "degen_pnl": -7.07,
+    "degen_record": "13W-18L"
   },
   "cumulative_chart": [
     {
@@ -51,186 +51,99 @@
     {
       "date": "2026-04-27",
       "cumPnl": -3.51
+    },
+    {
+      "date": "2026-04-28",
+      "cumPnl": -6.51
     }
   ],
   "yesterday": {
-    "day_pnl": 2.13,
-    "day_record": "6W-3L",
+    "day_pnl": -0.57,
+    "day_record": "4W-4L",
     "best_bet": {
-      "pnl": 0.94,
-      "label": "Ayo Dosunmu U 4.5 ast"
+      "pnl": 1.12,
+      "label": "Josh Hart U 4.5 ast"
     },
-    "last_10_record": "6-4",
+    "last_10_record": "4-6",
     "bets": [
-      {
-        "market": "spreads",
-        "play": "DEN -11.5",
-        "matchup": "Timberwolves @ Nuggets",
-        "time": "10:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -112",
-        "pnl": 0.89
-      },
-      {
-        "market": "totals",
-        "play": "OVER 215.5",
-        "matchup": "Thunder @ Suns",
-        "time": "09:40 PM ET",
-        "series": "OKC leads 5-0",
-        "book": "FanDuel -108",
-        "pnl": 0.93
-      },
-      {
-        "market": "totals",
-        "play": "OVER 224.5",
-        "matchup": "Timberwolves @ Nuggets",
-        "time": "10:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -114",
-        "pnl": 0.88
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 215.5",
-        "matchup": "Pistons @ Magic",
-        "time": "08:10 PM ET",
-        "series": "ORL leads 4-1",
-        "book": "FanDuel -115",
-        "pnl": 0.87
-      }
-    ],
-    "degen": {
-      "bets": [
-        {
-          "market": "props",
-          "play": "Ayo Dosunmu U 4.5 ast",
-          "matchup": "Timberwolves @ Nuggets",
-          "time": "10:40 PM ET",
-          "series": "Tied 3-3",
-          "book": "FanDuel -106",
-          "pnl": 0.94
-        },
-        {
-          "market": "props",
-          "play": "Bones Hyland U 3.5 ast",
-          "matchup": "Timberwolves @ Nuggets",
-          "time": "10:40 PM ET",
-          "series": "Tied 3-3",
-          "book": "FanDuel -162",
-          "pnl": 0.62
-        },
-        {
-          "market": "props",
-          "play": "Mike Conley U 3.5 ast",
-          "matchup": "Timberwolves @ Nuggets",
-          "time": "10:40 PM ET",
-          "series": "Tied 3-3",
-          "book": "FanDuel +114",
-          "pnl": -1.0
-        },
-        {
-          "market": "props",
-          "play": "Jalen Green U 3.5 ast",
-          "matchup": "Thunder @ Suns",
-          "time": "09:40 PM ET",
-          "series": "OKC leads 5-0",
-          "book": "FanDuel -162",
-          "pnl": -1.0
-        },
-        {
-          "market": "props",
-          "play": "Oso Ighodaro U 2.5 ast",
-          "matchup": "Thunder @ Suns",
-          "time": "09:40 PM ET",
-          "series": "OKC leads 5-0",
-          "book": "FanDuel +104",
-          "pnl": -1.0
-        }
-      ]
-    }
-  },
-  "today": {
-    "first_tip": "07:10 PM ET",
-    "picks": [
       {
         "market": "totals",
         "play": "OVER 214.5",
         "matchup": "76ers @ Celtics",
         "time": "07:10 PM ET",
-        "series": "BOS leads 3-1",
-        "tier": "Strong",
-        "book": "FanDuel -112"
+        "series": "BOS leads 3-2",
+        "book": "FanDuel -112",
+        "pnl": -1.0
       },
       {
         "market": "totals",
         "play": "OVER 217.5",
         "matchup": "Trail Blazers @ Spurs",
         "time": "09:40 PM ET",
-        "series": "SAS leads 3-1",
-        "tier": "Strong",
-        "book": "FanDuel -106"
+        "series": "SAS leads 4-1",
+        "book": "FanDuel -106",
+        "pnl": -1.0
       },
       {
         "market": "totals",
         "play": "UNDER 213.5",
         "matchup": "Hawks @ Knicks",
         "time": "08:10 PM ET",
-        "series": "Tied 2-2",
-        "tier": "Elite",
-        "book": "FanDuel -106"
+        "series": "NYK leads 3-2",
+        "book": "FanDuel -106",
+        "pnl": -1.0
       }
     ],
     "knicks": {
-      "preview": "",
-      "picks": [
+      "bets": [
         {
           "market": "props",
           "play": "Karl-Anthony Towns U 3.5 ast",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "Tied 2-2",
-          "tier": "Elite",
-          "book": "FanDuel -108"
+          "series": "NYK leads 3-2",
+          "book": "FanDuel -108",
+          "pnl": -1.0
         },
         {
           "market": "props",
           "play": "Josh Hart U 4.5 ast",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "Tied 2-2",
-          "tier": "Strong",
-          "book": "FanDuel +112"
+          "series": "NYK leads 3-2",
+          "book": "FanDuel +112",
+          "pnl": 1.12
         },
         {
           "market": "props",
           "play": "C.J. McCollum U 3.5 ast",
           "matchup": "Hawks @ Knicks",
           "time": "08:10 PM ET",
-          "series": "Tied 2-2",
-          "tier": "Strong",
-          "book": "FanDuel +104"
+          "series": "NYK leads 3-2",
+          "book": "FanDuel +104",
+          "pnl": 1.04
         }
       ]
     },
     "degen": {
-      "picks": [
+      "bets": [
         {
           "market": "props",
           "play": "Victor Wembanyama U 3.5 ast",
           "matchup": "Trail Blazers @ Spurs",
           "time": "09:40 PM ET",
-          "series": "SAS leads 3-1",
-          "tier": "Elite",
-          "book": "FanDuel -172"
+          "series": "SAS leads 4-1",
+          "book": "FanDuel -172",
+          "pnl": 0.58
         },
         {
           "market": "props",
           "play": "Devin Vassell U 2.5 ast",
           "matchup": "Trail Blazers @ Spurs",
           "time": "09:40 PM ET",
-          "series": "SAS leads 3-1",
-          "tier": "Elite",
-          "book": "FanDuel -146"
+          "series": "SAS leads 4-1",
+          "book": "FanDuel -146",
+          "pnl": 0.68
         }
       ]
     }
