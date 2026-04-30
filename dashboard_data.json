@@ -89,5 +89,46 @@
         "pnl": 0.93
       }
     ]
+  },
+  "today": {
+    "first_tip": "7:00 PM ET",
+    "picks": [
+      {
+        "market": "totals",
+        "play": "OVER 214.5",
+        "matchup": "Knicks @ Hawks",
+        "time": "7:00 PM ET",
+        "series": "NYK leads 3-2",
+        "tier": "Lean",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "other",
+        "play": "OG Anunoby O 16.5 pts",
+        "matchup": "Knicks @ Hawks",
+        "time": "7:00 PM ET",
+        "series": "NYK leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -113"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 212.5",
+        "matchup": "Celtics @ 76ers",
+        "time": "8:00 PM ET",
+        "series": "BOS leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 225.5",
+        "matchup": "Nuggets @ Timberwolves",
+        "time": "9:30 PM ET",
+        "series": "MIN leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -112"
+      }
+    ]
   }
 }
