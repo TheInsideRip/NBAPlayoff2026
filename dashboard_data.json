@@ -1,13 +1,13 @@
 {
-  "generated_date": "April 29, 2026",
+  "generated_date": "April 30, 2026",
   "overview": {
-    "model_pnl": -6.51,
-    "model_record": "16W-21L",
-    "model_roi": -17.6,
-    "spreads_pnl": -2.11,
-    "spreads_record": "1W-3L",
-    "totals_pnl": -2.16,
-    "totals_record": "11W-12L",
+    "model_pnl": -4.64,
+    "model_record": "18W-21L",
+    "model_roi": -11.9,
+    "spreads_pnl": -1.16,
+    "spreads_record": "2W-3L",
+    "totals_pnl": -1.23,
+    "totals_record": "12W-12L",
     "props_pnl": -2.24,
     "props_record": "4W-6L",
     "knicks_pnl": -0.96,
@@ -55,119 +55,38 @@
     {
       "date": "2026-04-28",
       "cumPnl": -6.51
+    },
+    {
+      "date": "2026-04-29",
+      "cumPnl": -4.64
     }
   ],
   "yesterday": {
-    "day_pnl": -0.57,
-    "day_record": "4W-4L",
+    "day_pnl": 1.87,
+    "day_record": "2W-0L",
     "best_bet": {
-      "pnl": 1.12,
-      "label": "Josh Hart U 4.5 ast"
+      "pnl": 0.94,
+      "label": "ORL +10.5"
     },
-    "last_10_record": "4-6",
+    "last_10_record": "6-4",
     "bets": [
-      {
-        "market": "totals",
-        "play": "OVER 214.5",
-        "matchup": "76ers @ Celtics",
-        "time": "07:10 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -112",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "OVER 217.5",
-        "matchup": "Trail Blazers @ Spurs",
-        "time": "09:40 PM ET",
-        "series": "SAS leads 5-1",
-        "book": "FanDuel -106",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 213.5",
-        "matchup": "Hawks @ Knicks",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 4-2",
-        "book": "FanDuel -106",
-        "pnl": -1.0
-      }
-    ],
-    "knicks": {
-      "bets": [
-        {
-          "market": "props",
-          "play": "Karl-Anthony Towns U 3.5 ast",
-          "matchup": "Hawks @ Knicks",
-          "time": "08:10 PM ET",
-          "series": "NYK leads 4-2",
-          "book": "FanDuel -108",
-          "pnl": -1.0
-        },
-        {
-          "market": "props",
-          "play": "Josh Hart U 4.5 ast",
-          "matchup": "Hawks @ Knicks",
-          "time": "08:10 PM ET",
-          "series": "NYK leads 4-2",
-          "book": "FanDuel +112",
-          "pnl": 1.12
-        },
-        {
-          "market": "props",
-          "play": "C.J. McCollum U 3.5 ast",
-          "matchup": "Hawks @ Knicks",
-          "time": "08:10 PM ET",
-          "series": "NYK leads 4-2",
-          "book": "FanDuel +104",
-          "pnl": 1.04
-        }
-      ]
-    },
-    "degen": {
-      "bets": [
-        {
-          "market": "props",
-          "play": "Victor Wembanyama U 3.5 ast",
-          "matchup": "Trail Blazers @ Spurs",
-          "time": "09:40 PM ET",
-          "series": "SAS leads 5-1",
-          "book": "FanDuel -172",
-          "pnl": 0.58
-        },
-        {
-          "market": "props",
-          "play": "Devin Vassell U 2.5 ast",
-          "matchup": "Trail Blazers @ Spurs",
-          "time": "09:40 PM ET",
-          "series": "SAS leads 5-1",
-          "book": "FanDuel -146",
-          "pnl": 0.68
-        }
-      ]
-    }
-  },
-  "today": {
-    "first_tip": "7:10 PM ET",
-    "picks": [
       {
         "market": "spreads",
         "play": "ORL +10.5",
         "matchup": "Magic @ Pistons",
         "time": "7:10 PM ET",
-        "series": "ORL leads 4-1",
-        "tier": "Lean",
-        "book": "FanDuel -106"
+        "series": "ORL leads 3-2",
+        "book": "FanDuel -106",
+        "pnl": 0.94
       },
       {
         "market": "totals",
         "play": "OVER 219.5",
         "matchup": "Raptors @ Cavaliers",
         "time": "7:40 PM ET",
-        "series": "Tied 2-2",
-        "tier": "Strong",
-        "book": "FanDuel -108"
+        "series": "CLE leads 3-2",
+        "book": "FanDuel -108",
+        "pnl": 0.93
       }
     ]
   }
