@@ -111,5 +111,46 @@
         "pnl": 0.89
       }
     ]
+  },
+  "today": {
+    "first_tip": "7:10 PM ET",
+    "picks": [
+      {
+        "market": "totals",
+        "play": "OVER 218.5",
+        "matchup": "Cavaliers @ Raptors",
+        "time": "7:40 PM ET",
+        "series": "CLE leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "props",
+        "play": "Alperen Sengun U 22.5 pts",
+        "matchup": "Lakers @ Rockets",
+        "time": "9:40 PM ET",
+        "series": "LAL leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -125"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 210.5",
+        "matchup": "Pistons @ Magic",
+        "time": "7:10 PM ET",
+        "series": "ORL leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -108"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 205.5",
+        "matchup": "Lakers @ Rockets",
+        "time": "9:40 PM ET",
+        "series": "LAL leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      }
+    ]
   }
 }
