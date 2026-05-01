@@ -1,15 +1,15 @@
 {
-  "generated_date": "April 30, 2026",
+  "generated_date": "May 01, 2026",
   "overview": {
-    "model_pnl": -4.64,
-    "model_record": "18W-21L",
-    "model_roi": -11.9,
+    "model_pnl": -0.97,
+    "model_record": "22W-21L",
+    "model_roi": -2.3,
     "spreads_pnl": -1.16,
     "spreads_record": "2W-3L",
-    "totals_pnl": -1.23,
-    "totals_record": "12W-12L",
-    "props_pnl": -2.24,
-    "props_record": "4W-6L",
+    "totals_pnl": 1.55,
+    "totals_record": "15W-12L",
+    "props_pnl": -1.36,
+    "props_record": "5W-6L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -59,75 +59,56 @@
     {
       "date": "2026-04-29",
       "cumPnl": -4.64
+    },
+    {
+      "date": "2026-04-30",
+      "cumPnl": -0.97
     }
   ],
   "yesterday": {
-    "day_pnl": 1.87,
-    "day_record": "2W-0L",
+    "day_pnl": 3.66,
+    "day_record": "4W-0L",
     "best_bet": {
       "pnl": 0.94,
-      "label": "ORL +10.5"
+      "label": "OVER 214.5"
     },
-    "last_10_record": "6-4",
+    "last_10_record": "10-0",
     "bets": [
-      {
-        "market": "spreads",
-        "play": "ORL +10.5",
-        "matchup": "Magic @ Pistons",
-        "time": "7:10 PM ET",
-        "series": "ORL leads 3-2",
-        "book": "FanDuel -106",
-        "pnl": 0.94
-      },
-      {
-        "market": "totals",
-        "play": "OVER 219.5",
-        "matchup": "Raptors @ Cavaliers",
-        "time": "7:40 PM ET",
-        "series": "CLE leads 3-2",
-        "book": "FanDuel -108",
-        "pnl": 0.93
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "7:00 PM ET",
-    "picks": [
       {
         "market": "totals",
         "play": "OVER 214.5",
         "matchup": "Knicks @ Hawks",
         "time": "7:00 PM ET",
-        "series": "NYK leads 3-2",
-        "tier": "Lean",
-        "book": "FanDuel -106"
+        "series": "NYK leads 4-2",
+        "book": "FanDuel -106",
+        "pnl": 0.94
       },
       {
         "market": "props",
         "play": "OG Anunoby O 16.5 pts",
         "matchup": "Knicks @ Hawks",
         "time": "7:00 PM ET",
-        "series": "NYK leads 3-2",
-        "tier": "Strong",
-        "book": "FanDuel -113"
+        "series": "NYK leads 4-2",
+        "book": "FanDuel -113",
+        "pnl": 0.88
       },
       {
         "market": "totals",
         "play": "UNDER 212.5",
         "matchup": "Celtics @ 76ers",
         "time": "8:00 PM ET",
-        "series": "BOS leads 3-2",
-        "tier": "Strong",
-        "book": "FanDuel -106"
+        "series": "Tied 3-3",
+        "book": "FanDuel -106",
+        "pnl": 0.94
       },
       {
         "market": "totals",
         "play": "UNDER 225.5",
         "matchup": "Nuggets @ Timberwolves",
         "time": "9:30 PM ET",
-        "series": "MIN leads 3-2",
-        "tier": "Strong",
-        "book": "FanDuel -112"
+        "series": "MIN leads 4-2",
+        "book": "FanDuel -112",
+        "pnl": 0.89
       }
     ]
   }
