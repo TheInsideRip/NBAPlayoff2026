@@ -115,5 +115,28 @@
         "pnl": 0.91
       }
     ]
+  },
+  "today": {
+    "first_tip": "7:40 PM ET",
+    "picks": [
+      {
+        "market": "totals",
+        "play": "OVER 205.5",
+        "matchup": "76ers @ Celtics",
+        "time": "7:40 PM ET",
+        "series": "Tied 3-3",
+        "tier": "Strong",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "props",
+        "play": "Paul George O 15.5 pts",
+        "matchup": "76ers @ Celtics",
+        "time": "7:40 PM ET",
+        "series": "Tied 3-3",
+        "tier": "Strong",
+        "book": "FanDuel -125"
+      }
+    ]
   }
 }
