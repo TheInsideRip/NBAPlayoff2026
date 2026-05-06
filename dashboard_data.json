@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 02, 2026",
+  "generated_date": "May 06, 2026",
   "overview": {
-    "model_pnl": 2.54,
-    "model_record": "26W-21L",
-    "model_roi": 5.4,
+    "model_pnl": 2.48,
+    "model_record": "27W-22L",
+    "model_roi": 5.1,
     "spreads_pnl": -1.16,
     "spreads_record": "2W-3L",
-    "totals_pnl": 4.26,
-    "totals_record": "18W-12L",
-    "props_pnl": -0.56,
-    "props_record": "6W-6L",
+    "totals_pnl": 5.21,
+    "totals_record": "19W-12L",
+    "props_pnl": -1.56,
+    "props_record": "6W-7L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -67,75 +67,41 @@
     {
       "date": "2026-05-01",
       "cumPnl": 2.54
+    },
+    {
+      "date": "2026-05-02",
+      "cumPnl": 2.48
     }
   ],
-  "yesterday": {
-    "day_pnl": 3.51,
-    "day_record": "4W-0L",
-    "best_bet": {
-      "pnl": 0.93,
-      "label": "UNDER 210.5"
-    },
-    "last_10_record": "10-0",
-    "bets": [
-      {
-        "market": "totals",
-        "play": "OVER 218.5",
-        "matchup": "Cavaliers @ Raptors",
-        "time": "7:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -114",
-        "pnl": 0.88
-      },
-      {
-        "market": "props",
-        "play": "Alperen Sengun U 22.5 pts",
-        "matchup": "Lakers @ Rockets",
-        "time": "9:40 PM ET",
-        "series": "LAL leads 4-2",
-        "book": "FanDuel -125",
-        "pnl": 0.8
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 210.5",
-        "matchup": "Pistons @ Magic",
-        "time": "7:10 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -108",
-        "pnl": 0.93
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 205.5",
-        "matchup": "Lakers @ Rockets",
-        "time": "9:40 PM ET",
-        "series": "LAL leads 4-2",
-        "book": "FanDuel -110",
-        "pnl": 0.91
-      }
-    ]
-  },
   "today": {
-    "first_tip": "7:40 PM ET",
+    "first_tip": "7:10 PM ET",
     "picks": [
       {
         "market": "totals",
-        "play": "OVER 205.5",
-        "matchup": "76ers @ Celtics",
-        "time": "7:40 PM ET",
-        "series": "Tied 3-3",
+        "play": "OVER 213.5",
+        "matchup": "76ers @ Knicks",
+        "time": "7:10 PM ET",
+        "series": "NYK leads 1-0",
         "tier": "Strong",
         "book": "FanDuel -106"
       },
       {
         "market": "props",
-        "play": "Paul George O 15.5 pts",
-        "matchup": "76ers @ Celtics",
-        "time": "7:40 PM ET",
-        "series": "Tied 3-3",
+        "play": "Paul George U 5.5 reb",
+        "matchup": "76ers @ Knicks",
+        "time": "7:10 PM ET",
+        "series": "NYK leads 1-0",
         "tier": "Strong",
-        "book": "FanDuel -125"
+        "book": "FanDuel -122"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 217.5",
+        "matchup": "Timberwolves @ Spurs",
+        "time": "9:40 PM ET",
+        "series": "MIN leads 1-0",
+        "tier": "Strong",
+        "book": "FanDuel -108"
       }
     ]
   }
