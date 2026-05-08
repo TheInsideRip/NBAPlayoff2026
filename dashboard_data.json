@@ -118,5 +118,37 @@
         "pnl": -1.0
       }
     ]
+  },
+  "today": {
+    "first_tip": "7:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Jalen Brunson O 6.5 ast",
+        "matchup": "Knicks @ 76ers",
+        "time": "7:10 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Strong",
+        "book": "FanDuel +114"
+      },
+      {
+        "market": "spreads",
+        "play": "MIN +4.5",
+        "matchup": "Spurs @ Timberwolves",
+        "time": "9:40 PM ET",
+        "series": "MIN leads 1-0",
+        "tier": "Strong",
+        "book": "FanDuel -105"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 216.5",
+        "matchup": "Spurs @ Timberwolves",
+        "time": "9:40 PM ET",
+        "series": "MIN leads 1-0",
+        "tier": "Lean",
+        "book": "FanDuel -110"
+      }
+    ]
   }
 }
