@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 07, 2026",
+  "generated_date": "May 08, 2026",
   "overview": {
-    "model_pnl": -0.52,
-    "model_record": "27W-25L",
-    "model_roi": -1.0,
+    "model_pnl": -1.59,
+    "model_record": "28W-27L",
+    "model_roi": -2.9,
     "spreads_pnl": -1.16,
     "spreads_record": "2W-3L",
-    "totals_pnl": 3.21,
-    "totals_record": "19W-14L",
-    "props_pnl": -2.56,
-    "props_record": "6W-8L",
+    "totals_pnl": 4.13,
+    "totals_record": "20W-14L",
+    "props_pnl": -4.56,
+    "props_record": "6W-10L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -75,75 +75,47 @@
     {
       "date": "2026-05-06",
       "cumPnl": -0.52
+    },
+    {
+      "date": "2026-05-07",
+      "cumPnl": -1.59
     }
   ],
   "yesterday": {
-    "day_pnl": -3.0,
-    "day_record": "0W-3L",
+    "day_pnl": -1.07,
+    "day_record": "1W-2L",
     "best_bet": {
-      "pnl": -1.0,
-      "label": "OVER 213.5"
+      "pnl": 0.93,
+      "label": "OVER 211.5"
     },
-    "last_10_record": "6-4",
+    "last_10_record": "4-6",
     "bets": [
-      {
-        "market": "totals",
-        "play": "OVER 213.5",
-        "matchup": "76ers @ Knicks",
-        "time": "7:10 PM ET",
-        "series": "NYK leads 1-0",
-        "book": "FanDuel -106",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Paul George U 5.5 reb",
-        "matchup": "76ers @ Knicks",
-        "time": "7:10 PM ET",
-        "series": "NYK leads 1-0",
-        "book": "FanDuel -122",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 217.5",
-        "matchup": "Timberwolves @ Spurs",
-        "time": "9:40 PM ET",
-        "series": "MIN leads 1-0",
-        "book": "FanDuel -108",
-        "pnl": -1.0
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "07:10 PM ET",
-    "picks": [
       {
         "market": "totals",
         "play": "OVER 211.5",
         "matchup": "Lakers @ Thunder",
         "time": "09:40 PM ET",
-        "series": "OKC leads 1-0",
-        "tier": "Strong",
-        "book": "FanDuel -108"
+        "series": "OKC leads 2-0",
+        "book": "FanDuel -108",
+        "pnl": 0.93
       },
       {
         "market": "props",
         "play": "Donovan Mitchell U 24.5 pts",
         "matchup": "Cavaliers @ Pistons",
         "time": "07:10 PM ET",
-        "series": "DET leads 1-0",
-        "tier": "Strong",
-        "book": "FanDuel -102"
+        "series": "DET leads 2-0",
+        "book": "FanDuel -102",
+        "pnl": -1.0
       },
       {
         "market": "props",
         "play": "Austin Reaves U 18.5 pts",
         "matchup": "Lakers @ Thunder",
         "time": "09:40 PM ET",
-        "series": "OKC leads 1-0",
-        "tier": "Strong",
-        "book": "FanDuel -118"
+        "series": "OKC leads 2-0",
+        "book": "FanDuel -118",
+        "pnl": -1.0
       }
     ]
   }
