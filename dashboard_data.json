@@ -127,12 +127,39 @@
     "first_tip": "03:10 PM ET",
     "picks": [
       {
+        "market": "props",
+        "play": "Tobias Harris O 18.5 pts",
+        "matchup": "Pistons @ Cavaliers",
+        "time": "03:10 PM ET",
+        "series": "DET leads 2-0",
+        "tier": "Strong",
+        "book": "FanDuel -104"
+      },
+      {
+        "market": "props",
+        "play": "Chet Holmgren O 16.5 pts",
+        "matchup": "Thunder @ Lakers",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 2-0",
+        "tier": "Lean",
+        "book": "FanDuel -130"
+      },
+      {
         "market": "totals",
         "play": "UNDER 212.5",
         "matchup": "Pistons @ Cavaliers",
         "time": "03:10 PM ET",
         "series": "DET leads 2-0",
         "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 211.5",
+        "matchup": "Thunder @ Lakers",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 2-0",
+        "tier": "Lean",
         "book": "FanDuel -114"
       }
     ]
