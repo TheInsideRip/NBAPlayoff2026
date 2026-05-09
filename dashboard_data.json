@@ -1,15 +1,15 @@
 {
   "generated_date": "May 09, 2026",
   "overview": {
-    "model_pnl": -1.68,
-    "model_record": "29W-28L",
-    "model_roi": -3.0,
+    "model_pnl": -0.54,
+    "model_record": "30W-28L",
+    "model_roi": -0.9,
     "spreads_pnl": -2.16,
     "spreads_record": "2W-4L",
     "totals_pnl": 5.04,
     "totals_record": "21W-14L",
-    "props_pnl": -4.56,
-    "props_record": "6W-10L",
+    "props_pnl": -3.42,
+    "props_record": "7W-10L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -82,15 +82,15 @@
     },
     {
       "date": "2026-05-08",
-      "cumPnl": -1.68
+      "cumPnl": -0.54
     }
   ],
   "yesterday": {
-    "day_pnl": -0.09,
-    "day_record": "1W-1L",
+    "day_pnl": 1.05,
+    "day_record": "2W-1L",
     "best_bet": {
-      "pnl": 0.91,
-      "label": "OVER 216.5"
+      "pnl": 1.14,
+      "label": "Jalen Brunson O 6.5 ast"
     },
     "last_10_record": "3-7",
     "bets": [
@@ -100,7 +100,8 @@
         "matchup": "Knicks @ 76ers",
         "time": "7:10 PM ET",
         "series": "NYK leads 2-0",
-        "book": "FanDuel +114"
+        "book": "FanDuel +114",
+        "pnl": 1.14
       },
       {
         "market": "spreads",
