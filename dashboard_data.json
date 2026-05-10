@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 09, 2026",
+  "generated_date": "May 10, 2026",
   "overview": {
-    "model_pnl": -0.54,
-    "model_record": "30W-28L",
-    "model_roi": -0.9,
+    "model_pnl": -0.81,
+    "model_record": "32W-30L",
+    "model_roi": -1.3,
     "spreads_pnl": -2.16,
     "spreads_record": "2W-4L",
-    "totals_pnl": 5.04,
-    "totals_record": "21W-14L",
-    "props_pnl": -3.42,
-    "props_record": "7W-10L",
+    "totals_pnl": 3.04,
+    "totals_record": "21W-16L",
+    "props_pnl": -1.69,
+    "props_record": "9W-10L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -83,84 +83,56 @@
     {
       "date": "2026-05-08",
       "cumPnl": -0.54
+    },
+    {
+      "date": "2026-05-09",
+      "cumPnl": -0.81
     }
   ],
   "yesterday": {
-    "day_pnl": 1.05,
-    "day_record": "2W-1L",
+    "day_pnl": -0.27,
+    "day_record": "2W-2L",
     "best_bet": {
-      "pnl": 1.14,
-      "label": "Jalen Brunson O 6.5 ast"
+      "pnl": 0.96,
+      "label": "Tobias Harris O 18.5 pts"
     },
-    "last_10_record": "3-7",
+    "last_10_record": "5-5",
     "bets": [
-      {
-        "market": "props",
-        "play": "Jalen Brunson O 6.5 ast",
-        "matchup": "Knicks @ 76ers",
-        "time": "7:10 PM ET",
-        "series": "NYK leads 3-0",
-        "book": "FanDuel +114",
-        "pnl": 1.14
-      },
-      {
-        "market": "spreads",
-        "play": "MIN +4.5",
-        "matchup": "Spurs @ Timberwolves",
-        "time": "9:40 PM ET",
-        "series": "MIN leads 2-1",
-        "book": "FanDuel -105",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "OVER 216.5",
-        "matchup": "Spurs @ Timberwolves",
-        "time": "9:40 PM ET",
-        "series": "MIN leads 2-1",
-        "book": "FanDuel -110",
-        "pnl": 0.91
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "03:10 PM ET",
-    "picks": [
       {
         "market": "props",
         "play": "Tobias Harris O 18.5 pts",
         "matchup": "Pistons @ Cavaliers",
         "time": "03:10 PM ET",
-        "series": "DET leads 2-0",
-        "tier": "Strong",
-        "book": "FanDuel -104"
+        "series": "DET leads 2-1",
+        "book": "FanDuel -104",
+        "pnl": 0.96
       },
       {
         "market": "props",
         "play": "Chet Holmgren O 16.5 pts",
         "matchup": "Thunder @ Lakers",
         "time": "08:40 PM ET",
-        "series": "OKC leads 2-0",
-        "tier": "Lean",
-        "book": "FanDuel -130"
+        "series": "OKC leads 3-0",
+        "book": "FanDuel -130",
+        "pnl": 0.77
       },
       {
         "market": "totals",
         "play": "UNDER 212.5",
         "matchup": "Pistons @ Cavaliers",
         "time": "03:10 PM ET",
-        "series": "DET leads 2-0",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "series": "DET leads 2-1",
+        "book": "FanDuel -114",
+        "pnl": -1.0
       },
       {
         "market": "totals",
         "play": "UNDER 211.5",
         "matchup": "Thunder @ Lakers",
         "time": "08:40 PM ET",
-        "series": "OKC leads 2-0",
-        "tier": "Lean",
-        "book": "FanDuel -114"
+        "series": "OKC leads 3-0",
+        "book": "FanDuel -114",
+        "pnl": -1.0
       }
     ]
   }
