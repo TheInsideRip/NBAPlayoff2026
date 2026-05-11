@@ -130,5 +130,46 @@
         "pnl": 0.93
       }
     ]
+  },
+  "today": {
+    "first_tip": "08:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Tobias Harris U 1.5 ast",
+        "matchup": "Pistons @ Cavaliers",
+        "time": "08:10 PM ET",
+        "series": "DET leads 2-1",
+        "tier": "Strong",
+        "book": "FanDuel +124"
+      },
+      {
+        "market": "spreads",
+        "play": "OKC -11.5",
+        "matchup": "Thunder @ Lakers",
+        "time": "10:40 PM ET",
+        "series": "OKC leads 3-0",
+        "tier": "Discretionary",
+        "book": "FanDuel -112"
+      },
+      {
+        "market": "totals",
+        "play": "OVER 213.5",
+        "matchup": "Pistons @ Cavaliers",
+        "time": "08:10 PM ET",
+        "series": "DET leads 2-1",
+        "tier": "Strong",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "props",
+        "play": "Shai Gilgeous-Alexander U 4.5 reb",
+        "matchup": "Thunder @ Lakers",
+        "time": "10:40 PM ET",
+        "series": "OKC leads 3-0",
+        "tier": "Discretionary",
+        "book": "FanDuel -158"
+      }
+    ]
   }
 }
