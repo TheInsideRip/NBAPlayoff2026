@@ -143,5 +143,28 @@
         "pnl": 0.63
       }
     ]
+  },
+  "today": {
+    "first_tip": "8:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Julius Randle U 3.5 ast",
+        "matchup": "Timberwolves @ Spurs",
+        "time": "8:10 PM ET",
+        "series": "Tied 2-2",
+        "tier": "Strong",
+        "book": "FanDuel -113"
+      },
+      {
+        "market": "spreads",
+        "play": "MIN +10.5",
+        "matchup": "Timberwolves @ Spurs",
+        "time": "8:10 PM ET",
+        "series": "Tied 2-2",
+        "tier": "Strong",
+        "book": "FanDuel -115"
+      }
+    ]
   }
 }
