@@ -1,11 +1,11 @@
 {
   "generated_date": "May 13, 2026",
   "overview": {
-    "model_pnl": 3.56,
-    "model_record": "39W-32L",
-    "model_roi": 5.0,
-    "spreads_pnl": -1.4,
-    "spreads_record": "4W-5L",
+    "model_pnl": 1.69,
+    "model_record": "38W-33L",
+    "model_roi": 2.4,
+    "spreads_pnl": -3.27,
+    "spreads_record": "3W-6L",
     "totals_pnl": 4.91,
     "totals_record": "23W-16L",
     "props_pnl": 0.05,
@@ -98,17 +98,17 @@
     },
     {
       "date": "2026-05-12",
-      "cumPnl": 3.56
+      "cumPnl": 1.69
     }
   ],
   "yesterday": {
-    "day_pnl": 1.75,
-    "day_record": "2W-0L",
+    "day_pnl": -0.12,
+    "day_record": "1W-1L",
     "best_bet": {
       "pnl": 0.88,
       "label": "Julius Randle U 3.5 ast"
     },
-    "last_10_record": "8-2",
+    "last_10_record": "7-3",
     "bets": [
       {
         "market": "props",
@@ -126,7 +126,7 @@
         "time": "8:10 PM ET",
         "series": "SAS leads 3-2",
         "book": "FanDuel -115",
-        "pnl": 0.87
+        "pnl": -1.0
       }
     ]
   }
