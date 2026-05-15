@@ -1,5 +1,5 @@
 {
-  "generated_date": "May 14, 2026",
+  "generated_date": "May 15, 2026",
   "overview": {
     "model_pnl": -0.31,
     "model_record": "38W-35L",
@@ -104,34 +104,5 @@
       "date": "2026-05-13",
       "cumPnl": -0.31
     }
-  ],
-  "yesterday": {
-    "day_pnl": -2.0,
-    "day_record": "0W-2L",
-    "best_bet": {
-      "pnl": -1.0,
-      "label": "Tobias Harris U 1.5 ast"
-    },
-    "last_10_record": "5-5",
-    "bets": [
-      {
-        "market": "props",
-        "play": "Tobias Harris U 1.5 ast",
-        "matchup": "Cavaliers @ Pistons",
-        "time": "08:10 PM ET",
-        "series": "CLE leads 3-2",
-        "book": "FanDuel +132",
-        "pnl": -1.0
-      },
-      {
-        "market": "spreads",
-        "play": "DET -3.5",
-        "matchup": "Cavaliers @ Pistons",
-        "time": "8:10 PM ET",
-        "series": "CLE leads 3-2",
-        "book": "FanDuel -118",
-        "pnl": -1.0
-      }
-    ]
-  }
+  ]
 }
