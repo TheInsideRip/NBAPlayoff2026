@@ -104,5 +104,46 @@
       "date": "2026-05-13",
       "cumPnl": -0.31
     }
-  ]
+  ],
+  "today": {
+    "first_tip": "7:00 PM ET",
+    "picks": [
+      {
+        "market": "spreads",
+        "play": "DET +4.5",
+        "matchup": "Pistons @ Cavaliers",
+        "time": "7:00 PM ET",
+        "series": "CLE leads 3-2",
+        "tier": "Lean",
+        "book": "FanDuel -118"
+      },
+      {
+        "market": "spreads",
+        "play": "MIN +5.5",
+        "matchup": "Spurs @ Timberwolves",
+        "time": "9:30 PM ET",
+        "series": "SAS leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -106"
+      },
+      {
+        "market": "props",
+        "play": "Donovan Mitchell O 26.5 pts",
+        "matchup": "Pistons @ Cavaliers",
+        "time": "7:00 PM ET",
+        "series": "CLE leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -113"
+      },
+      {
+        "market": "props",
+        "play": "Victor Wembanyama U 26.5 pts",
+        "matchup": "Spurs @ Timberwolves",
+        "time": "9:30 PM ET",
+        "series": "SAS leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      }
+    ]
+  }
 }
