@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 15, 2026",
+  "generated_date": "May 16, 2026",
   "overview": {
-    "model_pnl": -0.31,
-    "model_record": "38W-35L",
-    "model_roi": -0.4,
-    "spreads_pnl": -4.27,
-    "spreads_record": "3W-7L",
+    "model_pnl": -2.44,
+    "model_record": "39W-38L",
+    "model_roi": -3.2,
+    "spreads_pnl": -6.27,
+    "spreads_record": "3W-9L",
     "totals_pnl": 4.91,
     "totals_record": "23W-16L",
-    "props_pnl": -0.95,
-    "props_record": "12W-12L",
+    "props_pnl": -1.07,
+    "props_record": "13W-13L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -103,46 +103,56 @@
     {
       "date": "2026-05-13",
       "cumPnl": -0.31
+    },
+    {
+      "date": "2026-05-15",
+      "cumPnl": -2.44
     }
   ],
-  "today": {
-    "first_tip": "7:00 PM ET",
-    "picks": [
+  "yesterday": {
+    "day_pnl": -2.12,
+    "day_record": "1W-3L",
+    "best_bet": {
+      "pnl": 0.88,
+      "label": "Victor Wembanyama U 26.5 pts"
+    },
+    "last_10_record": "3-7",
+    "bets": [
       {
         "market": "spreads",
         "play": "DET +4.5",
         "matchup": "Pistons @ Cavaliers",
         "time": "7:00 PM ET",
-        "series": "CLE leads 3-2",
-        "tier": "Lean",
-        "book": "FanDuel -118"
+        "series": "Tied 3-3",
+        "book": "FanDuel -118",
+        "pnl": -1.0
       },
       {
         "market": "spreads",
         "play": "MIN +5.5",
         "matchup": "Spurs @ Timberwolves",
         "time": "9:30 PM ET",
-        "series": "SAS leads 3-2",
-        "tier": "Strong",
-        "book": "FanDuel -106"
+        "series": "SAS leads 4-2",
+        "book": "FanDuel -106",
+        "pnl": -1.0
       },
       {
         "market": "props",
         "play": "Donovan Mitchell O 26.5 pts",
         "matchup": "Pistons @ Cavaliers",
         "time": "7:00 PM ET",
-        "series": "CLE leads 3-2",
-        "tier": "Strong",
-        "book": "FanDuel -113"
+        "series": "Tied 3-3",
+        "book": "FanDuel -113",
+        "pnl": -1.0
       },
       {
         "market": "props",
         "play": "Victor Wembanyama U 26.5 pts",
         "matchup": "Spurs @ Timberwolves",
         "time": "9:30 PM ET",
-        "series": "SAS leads 3-2",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "series": "SAS leads 4-2",
+        "book": "FanDuel -114",
+        "pnl": 0.88
       }
     ]
   }
