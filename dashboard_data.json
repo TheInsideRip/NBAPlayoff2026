@@ -1,11 +1,11 @@
 {
   "generated_date": "May 16, 2026",
   "overview": {
-    "model_pnl": -2.44,
-    "model_record": "39W-38L",
-    "model_roi": -3.2,
-    "spreads_pnl": -6.27,
-    "spreads_record": "3W-9L",
+    "model_pnl": -0.59,
+    "model_record": "40W-37L",
+    "model_roi": -0.8,
+    "spreads_pnl": -4.42,
+    "spreads_record": "4W-8L",
     "totals_pnl": 4.91,
     "totals_record": "23W-16L",
     "props_pnl": -1.07,
@@ -106,17 +106,17 @@
     },
     {
       "date": "2026-05-15",
-      "cumPnl": -2.44
+      "cumPnl": -0.59
     }
   ],
   "yesterday": {
-    "day_pnl": -2.12,
-    "day_record": "1W-3L",
+    "day_pnl": -0.28,
+    "day_record": "2W-2L",
     "best_bet": {
       "pnl": 0.88,
       "label": "Victor Wembanyama U 26.5 pts"
     },
-    "last_10_record": "3-7",
+    "last_10_record": "4-6",
     "bets": [
       {
         "market": "spreads",
@@ -125,7 +125,7 @@
         "time": "7:00 PM ET",
         "series": "Tied 3-3",
         "book": "FanDuel -118",
-        "pnl": -1.0
+        "pnl": 0.85
       },
       {
         "market": "spreads",
