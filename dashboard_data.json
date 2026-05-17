@@ -1,5 +1,5 @@
 {
-  "generated_date": "May 16, 2026",
+  "generated_date": "May 17, 2026",
   "overview": {
     "model_pnl": -0.59,
     "model_record": "40W-37L",
@@ -109,50 +109,26 @@
       "cumPnl": -0.59
     }
   ],
-  "yesterday": {
-    "day_pnl": -0.28,
-    "day_record": "2W-2L",
-    "best_bet": {
-      "pnl": 0.88,
-      "label": "Victor Wembanyama U 26.5 pts"
-    },
-    "last_10_record": "4-6",
-    "bets": [
-      {
-        "market": "spreads",
-        "play": "DET +4.5",
-        "matchup": "Pistons @ Cavaliers",
-        "time": "7:00 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -118",
-        "pnl": 0.85
-      },
-      {
-        "market": "spreads",
-        "play": "MIN +5.5",
-        "matchup": "Spurs @ Timberwolves",
-        "time": "9:30 PM ET",
-        "series": "SAS leads 4-2",
-        "book": "FanDuel -106",
-        "pnl": -1.0
-      },
+  "today": {
+    "first_tip": "8:00 PM ET",
+    "picks": [
       {
         "market": "props",
-        "play": "Donovan Mitchell O 26.5 pts",
-        "matchup": "Pistons @ Cavaliers",
-        "time": "7:00 PM ET",
+        "play": "Donovan Mitchell U 25.5 pts",
+        "matchup": "Cavaliers @ Pistons",
+        "time": "8:00 PM ET",
         "series": "Tied 3-3",
-        "book": "FanDuel -113",
-        "pnl": -1.0
+        "tier": "Elite",
+        "book": "FanDuel +102"
       },
       {
-        "market": "props",
-        "play": "Victor Wembanyama U 26.5 pts",
-        "matchup": "Spurs @ Timberwolves",
-        "time": "9:30 PM ET",
-        "series": "SAS leads 4-2",
-        "book": "FanDuel -114",
-        "pnl": 0.88
+        "market": "totals",
+        "play": "UNDER 206.5",
+        "matchup": "Cavaliers @ Pistons",
+        "time": "8:00 PM ET",
+        "series": "Tied 3-3",
+        "tier": "Elite",
+        "book": "FanDuel -108"
       }
     ]
   }
