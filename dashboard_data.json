@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 17, 2026",
+  "generated_date": "May 18, 2026",
   "overview": {
-    "model_pnl": -0.59,
-    "model_record": "40W-37L",
-    "model_roi": -0.8,
+    "model_pnl": -2.59,
+    "model_record": "40W-39L",
+    "model_roi": -3.3,
     "spreads_pnl": -4.42,
     "spreads_record": "4W-8L",
-    "totals_pnl": 4.91,
-    "totals_record": "23W-16L",
-    "props_pnl": -1.07,
-    "props_record": "13W-13L",
+    "totals_pnl": 3.91,
+    "totals_record": "23W-17L",
+    "props_pnl": -2.07,
+    "props_record": "13W-14L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -107,28 +107,38 @@
     {
       "date": "2026-05-15",
       "cumPnl": -0.59
+    },
+    {
+      "date": "2026-05-17",
+      "cumPnl": -2.59
     }
   ],
-  "today": {
-    "first_tip": "8:00 PM ET",
-    "picks": [
+  "yesterday": {
+    "day_pnl": -2.0,
+    "day_record": "0W-2L",
+    "best_bet": {
+      "pnl": -1.0,
+      "label": "Donovan Mitchell U 25.5 pts"
+    },
+    "last_10_record": "3-7",
+    "bets": [
       {
         "market": "props",
         "play": "Donovan Mitchell U 25.5 pts",
         "matchup": "Cavaliers @ Pistons",
         "time": "8:00 PM ET",
-        "series": "Tied 3-3",
-        "tier": "Elite",
-        "book": "FanDuel +102"
+        "series": "CLE leads 4-3",
+        "book": "FanDuel +102",
+        "pnl": -1.0
       },
       {
         "market": "totals",
         "play": "UNDER 206.5",
         "matchup": "Cavaliers @ Pistons",
         "time": "8:00 PM ET",
-        "series": "Tied 3-3",
-        "tier": "Elite",
-        "book": "FanDuel -108"
+        "series": "CLE leads 4-3",
+        "book": "FanDuel -108",
+        "pnl": -1.0
       }
     ]
   }
