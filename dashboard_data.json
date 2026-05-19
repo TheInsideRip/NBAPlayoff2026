@@ -136,5 +136,28 @@
         "pnl": 0.91
       }
     ]
+  },
+  "today": {
+    "first_tip": "8:00 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Josh Hart O 8.5 reb",
+        "matchup": "Cavaliers @ Knicks",
+        "time": "8:00 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +114"
+      },
+      {
+        "market": "other",
+        "play": "Donovan Mitchell U 2.5 3PM",
+        "matchup": "Cavaliers @ Knicks",
+        "time": "8:00 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +128"
+      }
+    ]
   }
 }
