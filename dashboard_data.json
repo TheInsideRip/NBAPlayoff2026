@@ -1,13 +1,13 @@
 {
-  "generated_date": "May 18, 2026",
+  "generated_date": "May 19, 2026",
   "overview": {
-    "model_pnl": -2.59,
-    "model_record": "40W-39L",
-    "model_roi": -3.3,
+    "model_pnl": -1.68,
+    "model_record": "41W-39L",
+    "model_roi": -2.1,
     "spreads_pnl": -4.42,
     "spreads_record": "4W-8L",
-    "totals_pnl": 3.91,
-    "totals_record": "23W-17L",
+    "totals_pnl": 4.82,
+    "totals_record": "24W-17L",
     "props_pnl": -2.07,
     "props_record": "13W-14L",
     "knicks_pnl": -0.96,
@@ -111,48 +111,29 @@
     {
       "date": "2026-05-17",
       "cumPnl": -2.59
+    },
+    {
+      "date": "2026-05-18",
+      "cumPnl": -1.68
     }
   ],
   "yesterday": {
-    "day_pnl": -2.0,
-    "day_record": "0W-2L",
+    "day_pnl": 0.91,
+    "day_record": "1W-0L",
     "best_bet": {
-      "pnl": -1.0,
-      "label": "Donovan Mitchell U 25.5 pts"
+      "pnl": 0.91,
+      "label": "OVER 219.5"
     },
-    "last_10_record": "3-7",
+    "last_10_record": "4-6",
     "bets": [
-      {
-        "market": "props",
-        "play": "Donovan Mitchell U 25.5 pts",
-        "matchup": "Cavaliers @ Pistons",
-        "time": "8:00 PM ET",
-        "series": "CLE leads 4-3",
-        "book": "FanDuel +102",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 206.5",
-        "matchup": "Cavaliers @ Pistons",
-        "time": "8:00 PM ET",
-        "series": "CLE leads 4-3",
-        "book": "FanDuel -108",
-        "pnl": -1.0
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "8:30 PM ET",
-    "picks": [
       {
         "market": "totals",
         "play": "OVER 219.5",
         "matchup": "Spurs @ Thunder",
         "time": "8:30 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": 0.91
       }
     ]
   }
