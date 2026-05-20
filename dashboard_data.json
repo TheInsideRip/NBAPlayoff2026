@@ -149,5 +149,28 @@
         "pnl": -1.0
       }
     ]
+  },
+  "today": {
+    "first_tip": "8:30 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "SGA O 7.5 ast",
+        "matchup": "Spurs @ Thunder",
+        "time": "8:30 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel +124"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 216.5",
+        "matchup": "Spurs @ Thunder",
+        "time": "8:30 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      }
+    ]
   }
 }
