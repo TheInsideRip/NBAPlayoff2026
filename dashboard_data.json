@@ -1,13 +1,13 @@
 {
-  "generated_date": "May 20, 2026",
+  "generated_date": "May 21, 2026",
   "overview": {
-    "model_pnl": -3.68,
-    "model_record": "41W-41L",
-    "model_roi": -4.5,
+    "model_pnl": -4.68,
+    "model_record": "41W-42L",
+    "model_roi": -5.6,
     "spreads_pnl": -4.42,
     "spreads_record": "4W-8L",
-    "totals_pnl": 4.82,
-    "totals_record": "24W-17L",
+    "totals_pnl": 3.82,
+    "totals_record": "24W-18L",
     "props_pnl": -4.07,
     "props_record": "13W-16L",
     "knicks_pnl": -0.96,
@@ -119,47 +119,27 @@
     {
       "date": "2026-05-19",
       "cumPnl": -3.68
+    },
+    {
+      "date": "2026-05-20",
+      "cumPnl": -4.68
     }
   ],
   "yesterday": {
-    "day_pnl": -2.0,
-    "day_record": "0W-2L",
+    "day_pnl": -1.0,
+    "day_record": "0W-1L",
     "best_bet": {
       "pnl": -1.0,
-      "label": "Josh Hart O 8.5 reb"
+      "label": "UNDER 216.5"
     },
     "last_10_record": "3-7",
     "bets": [
-      {
-        "market": "props",
-        "play": "Josh Hart O 8.5 reb",
-        "matchup": "Cavaliers @ Knicks",
-        "time": "8:00 PM ET",
-        "series": "",
-        "book": "FanDuel +114",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Donovan Mitchell U 2.5 3PM",
-        "matchup": "Cavaliers @ Knicks",
-        "time": "8:00 PM ET",
-        "series": "",
-        "book": "FanDuel +128",
-        "pnl": -1.0
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "8:30 PM ET",
-    "picks": [
       {
         "market": "props",
         "play": "SGA O 7.5 ast",
         "matchup": "Spurs @ Thunder",
         "time": "8:30 PM ET",
         "series": "",
-        "tier": "Strong",
         "book": "FanDuel +124"
       },
       {
@@ -168,8 +148,8 @@
         "matchup": "Spurs @ Thunder",
         "time": "8:30 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": -1.0
       }
     ]
   }
