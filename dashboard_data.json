@@ -153,5 +153,28 @@
         "pnl": -1.0
       }
     ]
+  },
+  "today": {
+    "first_tip": "8:00 PM ET",
+    "picks": [
+      {
+        "market": "spreads",
+        "play": "CLE +5.5",
+        "matchup": "Cavaliers @ Knicks",
+        "time": "8:00 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      },
+      {
+        "market": "props",
+        "play": "OG Anunoby O 15.5 pts",
+        "matchup": "Cavaliers @ Knicks",
+        "time": "8:00 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -108"
+      }
+    ]
   }
 }
