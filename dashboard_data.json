@@ -1,15 +1,15 @@
 {
   "generated_date": "May 21, 2026",
   "overview": {
-    "model_pnl": -4.68,
-    "model_record": "41W-42L",
-    "model_roi": -5.6,
+    "model_pnl": -3.44,
+    "model_record": "42W-42L",
+    "model_roi": -4.1,
     "spreads_pnl": -4.42,
     "spreads_record": "4W-8L",
     "totals_pnl": 3.82,
     "totals_record": "24W-18L",
-    "props_pnl": -4.07,
-    "props_record": "13W-16L",
+    "props_pnl": -2.83,
+    "props_record": "14W-16L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -122,25 +122,26 @@
     },
     {
       "date": "2026-05-20",
-      "cumPnl": -4.68
+      "cumPnl": -3.44
     }
   ],
   "yesterday": {
-    "day_pnl": -1.0,
-    "day_record": "0W-1L",
+    "day_pnl": 0.24,
+    "day_record": "1W-1L",
     "best_bet": {
-      "pnl": -1.0,
-      "label": "UNDER 216.5"
+      "pnl": 1.24,
+      "label": "Shai Gilgeous-Alexander O 7.5 ast"
     },
     "last_10_record": "3-7",
     "bets": [
       {
         "market": "props",
-        "play": "SGA O 7.5 ast",
+        "play": "Shai Gilgeous-Alexander O 7.5 ast",
         "matchup": "Spurs @ Thunder",
         "time": "8:30 PM ET",
         "series": "",
-        "book": "FanDuel +124"
+        "book": "FanDuel +124",
+        "pnl": 1.24
       },
       {
         "market": "totals",
