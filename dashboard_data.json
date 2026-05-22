@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 21, 2026",
+  "generated_date": "May 22, 2026",
   "overview": {
-    "model_pnl": -3.44,
-    "model_record": "42W-42L",
-    "model_roi": -4.1,
-    "spreads_pnl": -4.42,
-    "spreads_record": "4W-8L",
+    "model_pnl": -5.44,
+    "model_record": "42W-44L",
+    "model_roi": -6.3,
+    "spreads_pnl": -5.42,
+    "spreads_record": "4W-9L",
     "totals_pnl": 3.82,
     "totals_record": "24W-18L",
-    "props_pnl": -2.83,
-    "props_record": "14W-16L",
+    "props_pnl": -3.83,
+    "props_record": "14W-17L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -123,48 +123,29 @@
     {
       "date": "2026-05-20",
       "cumPnl": -3.44
+    },
+    {
+      "date": "2026-05-21",
+      "cumPnl": -5.44
     }
   ],
   "yesterday": {
-    "day_pnl": 0.24,
-    "day_record": "1W-1L",
+    "day_pnl": -2.0,
+    "day_record": "0W-2L",
     "best_bet": {
-      "pnl": 1.24,
-      "label": "Shai Gilgeous-Alexander O 7.5 ast"
+      "pnl": -1.0,
+      "label": "CLE +5.5"
     },
-    "last_10_record": "3-7",
+    "last_10_record": "2-8",
     "bets": [
-      {
-        "market": "props",
-        "play": "Shai Gilgeous-Alexander O 7.5 ast",
-        "matchup": "Spurs @ Thunder",
-        "time": "8:30 PM ET",
-        "series": "",
-        "book": "FanDuel +124",
-        "pnl": 1.24
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 216.5",
-        "matchup": "Spurs @ Thunder",
-        "time": "8:30 PM ET",
-        "series": "",
-        "book": "FanDuel -110",
-        "pnl": -1.0
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "8:00 PM ET",
-    "picks": [
       {
         "market": "spreads",
         "play": "CLE +5.5",
         "matchup": "Cavaliers @ Knicks",
         "time": "8:00 PM ET",
         "series": "",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -172,8 +153,67 @@
         "matchup": "Cavaliers @ Knicks",
         "time": "8:00 PM ET",
         "series": "",
+        "book": "FanDuel -108",
+        "pnl": -1.0
+      }
+    ]
+  },
+  "today": {
+    "first_tip": "08:40 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Victor Wembanyama U 3.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "",
+        "tier": "Elite",
+        "book": "FanDuel -132"
+      },
+      {
+        "market": "props",
+        "play": "Stephon Castle U 7.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "",
+        "tier": "Elite",
+        "book": "FanDuel -112"
+      },
+      {
+        "market": "props",
+        "play": "Devin Vassell U 2.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "",
+        "tier": "Elite",
+        "book": "FanDuel -130"
+      },
+      {
+        "market": "props",
+        "play": "Julian Champagnie U 1.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "",
         "tier": "Strong",
-        "book": "FanDuel -108"
+        "book": "FanDuel -132"
+      },
+      {
+        "market": "props",
+        "play": "Ajay Mitchell U 3.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "props",
+        "play": "Dylan Harper U 3.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "",
+        "tier": "Strong",
+        "book": "FanDuel -136"
       }
     ]
   }
