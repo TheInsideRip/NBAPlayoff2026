@@ -210,5 +210,109 @@
         "pnl": -1.0
       }
     ]
+  },
+  "today": {
+    "first_tip": "08:10 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Victor Wembanyama U 3.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Elite",
+        "book": "FanDuel -146"
+      },
+      {
+        "market": "props",
+        "play": "Jared McCain U 1.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Elite",
+        "book": "FanDuel -144"
+      },
+      {
+        "market": "props",
+        "play": "Julian Champagnie U 1.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "props",
+        "play": "De'Aaron Fox U 5.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -125"
+      },
+      {
+        "market": "props",
+        "play": "Stephon Castle U 6.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -102"
+      },
+      {
+        "market": "props",
+        "play": "Alex Caruso U 1.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel +132"
+      },
+      {
+        "market": "props",
+        "play": "Isaiah Hartenstein U 2.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "props",
+        "play": "Dylan Harper U 2.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      },
+      {
+        "market": "props",
+        "play": "Jalen Williams U 3.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Strong",
+        "book": "FanDuel -114"
+      },
+      {
+        "market": "spreads",
+        "play": "OKC ML",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Jackpot",
+        "book": "FanDuel +122"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 219.5",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:10 PM ET",
+        "series": "Tied 1-1",
+        "tier": "Elite",
+        "book": "FanDuel -110"
+      }
+    ]
   }
 }
