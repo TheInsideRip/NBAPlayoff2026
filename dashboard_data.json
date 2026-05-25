@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 24, 2026",
+  "generated_date": "May 25, 2026",
   "overview": {
-    "model_pnl": -1.77,
-    "model_record": "52W-49L",
-    "model_roi": -1.7,
-    "spreads_pnl": -3.16,
-    "spreads_record": "6W-9L",
-    "totals_pnl": 1.82,
-    "totals_record": "24W-20L",
-    "props_pnl": -0.42,
-    "props_record": "22W-20L",
+    "model_pnl": 0.72,
+    "model_record": "59W-53L",
+    "model_roi": 0.6,
+    "spreads_pnl": -4.16,
+    "spreads_record": "6W-10L",
+    "totals_pnl": 2.73,
+    "totals_record": "25W-20L",
+    "props_pnl": 2.16,
+    "props_record": "28W-23L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -135,93 +135,29 @@
     {
       "date": "2026-05-23",
       "cumPnl": -1.77
+    },
+    {
+      "date": "2026-05-24",
+      "cumPnl": 0.72
     }
   ],
   "yesterday": {
-    "day_pnl": 0.6,
-    "day_record": "4W-3L",
+    "day_pnl": 2.49,
+    "day_record": "7W-4L",
     "best_bet": {
-      "pnl": 1.22,
-      "label": "NYK ML"
+      "pnl": 1.32,
+      "label": "Alex Caruso U 1.5 ast"
     },
     "last_10_record": "6-4",
     "bets": [
-      {
-        "market": "props",
-        "play": "Karl-Anthony Towns U 4.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -172",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Evan Mobley U 3.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -130",
-        "pnl": 0.77
-      },
-      {
-        "market": "props",
-        "play": "Josh Hart U 4.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -146",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Jarrett Allen U 1.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -150",
-        "pnl": 0.67
-      },
-      {
-        "market": "props",
-        "play": "Dennis Schroder U 2.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -106",
-        "pnl": 0.94
-      },
-      {
-        "market": "spreads",
-        "play": "NYK ML",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel +122",
-        "pnl": 1.22
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 215.5",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -110",
-        "pnl": -1.0
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "08:10 PM ET",
-    "picks": [
       {
         "market": "props",
         "play": "Victor Wembanyama U 3.5 ast",
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -146"
+        "book": "FanDuel -146",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -229,8 +165,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -144"
+        "book": "FanDuel -144",
+        "pnl": 0.69
       },
       {
         "market": "props",
@@ -238,8 +174,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "book": "FanDuel -114",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -247,8 +183,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel -125"
+        "book": "FanDuel -125",
+        "pnl": 0.8
       },
       {
         "market": "props",
@@ -256,8 +192,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel -102"
+        "book": "FanDuel -102",
+        "pnl": 0.98
       },
       {
         "market": "props",
@@ -265,8 +201,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel +132"
+        "book": "FanDuel +132",
+        "pnl": 1.32
       },
       {
         "market": "props",
@@ -274,8 +210,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "book": "FanDuel -114",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -283,8 +219,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": 0.91
       },
       {
         "market": "props",
@@ -292,8 +228,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Strong",
-        "book": "FanDuel -114"
+        "book": "FanDuel -114",
+        "pnl": 0.88
       },
       {
         "market": "spreads",
@@ -301,8 +237,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Jackpot",
-        "book": "FanDuel +122"
+        "book": "FanDuel +122",
+        "pnl": -1.0
       },
       {
         "market": "totals",
@@ -310,8 +246,8 @@
         "matchup": "Thunder @ Spurs",
         "time": "08:10 PM ET",
         "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": 0.91
       }
     ]
   }
