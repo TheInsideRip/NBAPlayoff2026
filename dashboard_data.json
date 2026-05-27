@@ -1,15 +1,15 @@
 {
-  "generated_date": "May 26, 2026",
+  "generated_date": "May 27, 2026",
   "overview": {
-    "model_pnl": -2.17,
-    "model_record": "59W-56L",
-    "model_roi": -1.9,
+    "model_pnl": -1.72,
+    "model_record": "61W-57L",
+    "model_roi": -1.4,
     "spreads_pnl": -4.16,
     "spreads_record": "6W-10L",
-    "totals_pnl": 1.73,
-    "totals_record": "25W-21L",
-    "props_pnl": 0.26,
-    "props_record": "28W-25L",
+    "totals_pnl": 0.73,
+    "totals_record": "25W-22L",
+    "props_pnl": 1.71,
+    "props_record": "30W-25L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -143,66 +143,29 @@
     {
       "date": "2026-05-25",
       "cumPnl": -2.17
+    },
+    {
+      "date": "2026-05-26",
+      "cumPnl": -1.72
     }
   ],
   "yesterday": {
-    "day_pnl": -2.02,
-    "day_record": "1W-3L",
+    "day_pnl": 0.45,
+    "day_record": "2W-1L",
     "best_bet": {
-      "pnl": 0.98,
-      "label": "Karl-Anthony Towns U 4.5 ast"
+      "pnl": 0.76,
+      "label": "Victor Wembanyama U 3.5 ast"
     },
-    "last_10_record": "5-4",
+    "last_10_record": "4-5",
     "bets": [
-      {
-        "market": "props",
-        "play": "Karl-Anthony Towns U 4.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -102",
-        "pnl": 0.98
-      },
-      {
-        "market": "props",
-        "play": "Evan Mobley U 3.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -104",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Josh Hart U 4.5 ast",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -122",
-        "pnl": -1.0
-      },
-      {
-        "market": "totals",
-        "play": "UNDER 218.5",
-        "matchup": "Knicks @ Cavaliers",
-        "time": "08:10 PM ET",
-        "series": "NYK leads 2-0",
-        "book": "FanDuel -106",
-        "pnl": -1.0
-      }
-    ]
-  },
-  "today": {
-    "first_tip": "08:40 PM ET",
-    "picks": [
       {
         "market": "props",
         "play": "Victor Wembanyama U 3.5 ast",
         "matchup": "Spurs @ Thunder",
         "time": "08:40 PM ET",
         "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -132"
+        "book": "FanDuel -132",
+        "pnl": 0.76
       },
       {
         "market": "props",
@@ -210,8 +173,8 @@
         "matchup": "Spurs @ Thunder",
         "time": "08:40 PM ET",
         "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -144"
+        "book": "FanDuel -144",
+        "pnl": 0.69
       },
       {
         "market": "totals",
@@ -219,8 +182,8 @@
         "matchup": "Spurs @ Thunder",
         "time": "08:40 PM ET",
         "series": "Tied 1-1",
-        "tier": "Elite",
-        "book": "FanDuel -112"
+        "book": "FanDuel -112",
+        "pnl": -1.0
       }
     ]
   }
