@@ -1,5 +1,5 @@
 {
-  "generated_date": "May 27, 2026",
+  "generated_date": "May 28, 2026",
   "overview": {
     "model_pnl": -1.72,
     "model_record": "61W-57L",
@@ -149,41 +149,98 @@
       "cumPnl": -1.72
     }
   ],
-  "yesterday": {
-    "day_pnl": 0.45,
-    "day_record": "2W-1L",
-    "best_bet": {
-      "pnl": 0.76,
-      "label": "Victor Wembanyama U 3.5 ast"
-    },
-    "last_10_record": "4-5",
-    "bets": [
+  "today": {
+    "first_tip": "08:40 PM ET",
+    "picks": [
+      {
+        "market": "props",
+        "play": "Alex Caruso U 2.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 3-2",
+        "tier": "Elite",
+        "book": "FanDuel -162"
+      },
       {
         "market": "props",
         "play": "Victor Wembanyama U 3.5 ast",
-        "matchup": "Spurs @ Thunder",
+        "matchup": "Thunder @ Spurs",
         "time": "08:40 PM ET",
-        "series": "Tied 1-1",
-        "book": "FanDuel -132",
-        "pnl": 0.76
+        "series": "OKC leads 3-2",
+        "tier": "Elite",
+        "book": "FanDuel -154"
       },
       {
         "market": "props",
         "play": "Jared McCain U 1.5 ast",
-        "matchup": "Spurs @ Thunder",
+        "matchup": "Thunder @ Spurs",
         "time": "08:40 PM ET",
-        "series": "Tied 1-1",
-        "book": "FanDuel -144",
-        "pnl": 0.69
+        "series": "OKC leads 3-2",
+        "tier": "Elite",
+        "book": "FanDuel +100"
       },
       {
-        "market": "totals",
-        "play": "UNDER 217.5",
-        "matchup": "Spurs @ Thunder",
+        "market": "props",
+        "play": "Cason Wallace U 2.5 ast",
+        "matchup": "Thunder @ Spurs",
         "time": "08:40 PM ET",
-        "series": "Tied 1-1",
-        "book": "FanDuel -112",
-        "pnl": -1.0
+        "series": "OKC leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -113"
+      },
+      {
+        "market": "props",
+        "play": "De'Aaron Fox U 5.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -104"
+      },
+      {
+        "market": "props",
+        "play": "Stephon Castle U 6.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel +120"
+      },
+      {
+        "market": "props",
+        "play": "Isaiah Hartenstein U 2.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel +130"
+      },
+      {
+        "market": "props",
+        "play": "Dylan Harper U 2.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -113"
+      },
+      {
+        "market": "props",
+        "play": "Jalen Williams U 3.5 ast",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -136"
+      },
+      {
+        "market": "spreads",
+        "play": "OKC +3.5",
+        "matchup": "Thunder @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "OKC leads 3-2",
+        "tier": "Strong",
+        "book": "FanDuel -110"
       }
     ]
   }
