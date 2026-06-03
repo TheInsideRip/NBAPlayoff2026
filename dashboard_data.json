@@ -1,5 +1,5 @@
 {
-  "generated_date": "May 29, 2026",
+  "generated_date": "June 03, 2026",
   "overview": {
     "model_pnl": -4.84,
     "model_record": "65W-63L",
@@ -153,104 +153,53 @@
       "cumPnl": -4.84
     }
   ],
-  "yesterday": {
-    "day_pnl": -3.11,
-    "day_record": "4W-6L",
-    "best_bet": {
-      "pnl": 0.88,
-      "label": "Cason Wallace U 2.5 ast"
-    },
-    "last_10_record": "4-6",
-    "bets": [
+  "today": {
+    "first_tip": "08:30 PM ET",
+    "picks": [
       {
         "market": "props",
-        "play": "Alex Caruso U 2.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -162",
-        "pnl": 0.62
+        "play": "Karl-Anthony Towns U 3.5 ast",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:30 PM ET",
+        "series": "SAS 0-0 NYK",
+        "tier": "Elite",
+        "book": "FanDuel +114"
       },
       {
         "market": "props",
-        "play": "Victor Wembanyama U 3.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -154",
-        "pnl": 0.65
+        "play": "Devin Vassell U 2.5 ast",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:30 PM ET",
+        "series": "SAS 0-0 NYK",
+        "tier": "Elite",
+        "book": "FanDuel -150"
       },
       {
         "market": "props",
-        "play": "Jared McCain U 1.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel +100",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Cason Wallace U 2.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -113",
-        "pnl": 0.88
-      },
-      {
-        "market": "props",
-        "play": "De'Aaron Fox U 5.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -104",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Stephon Castle U 6.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel +120",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Isaiah Hartenstein U 2.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel +130",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Dylan Harper U 2.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -113",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Jalen Williams U 3.5 ast",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -136",
-        "pnl": 0.74
+        "play": "Josh Hart U 4.5 ast",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:30 PM ET",
+        "series": "SAS 0-0 NYK",
+        "tier": "Strong",
+        "book": "FanDuel -118"
       },
       {
         "market": "spreads",
-        "play": "OKC +3.5",
-        "matchup": "Thunder @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "Tied 3-3",
-        "book": "FanDuel -110",
-        "pnl": -1.0
+        "play": "NYK ML",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:30 PM ET",
+        "series": "SAS 0-0 NYK",
+        "tier": "Jackpot",
+        "book": "FanDuel +162"
+      },
+      {
+        "market": "totals",
+        "play": "UNDER 217.5",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:30 PM ET",
+        "series": "SAS 0-0 NYK",
+        "tier": "Elite",
+        "book": "FanDuel -115"
       }
     ]
   }
