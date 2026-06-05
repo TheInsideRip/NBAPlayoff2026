@@ -1,5 +1,5 @@
 {
-  "generated_date": "June 04, 2026",
+  "generated_date": "June 05, 2026",
   "overview": {
     "model_pnl": -5.35,
     "model_record": "67W-66L",
@@ -157,59 +157,53 @@
       "cumPnl": -5.35
     }
   ],
-  "yesterday": {
-    "day_pnl": -0.51,
-    "day_record": "2W-3L",
-    "best_bet": {
-      "pnl": 1.62,
-      "label": "NYK ML"
-    },
-    "last_10_record": "3-7",
-    "bets": [
+  "today": {
+    "first_tip": "08:40 PM ET",
+    "picks": [
       {
         "market": "props",
         "play": "Karl-Anthony Towns U 3.5 ast",
         "matchup": "Knicks @ Spurs",
-        "time": "08:30 PM ET",
-        "series": "SAS 0-0 NYK",
-        "book": "FanDuel +114",
-        "pnl": -1.0
+        "time": "08:40 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Elite",
+        "book": "FanDuel +112"
+      },
+      {
+        "market": "props",
+        "play": "Victor Wembanyama U 3.5 ast",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Elite",
+        "book": "FanDuel -164"
       },
       {
         "market": "props",
         "play": "Devin Vassell U 2.5 ast",
         "matchup": "Knicks @ Spurs",
-        "time": "08:30 PM ET",
-        "series": "SAS 0-0 NYK",
-        "book": "FanDuel -150",
-        "pnl": -1.0
-      },
-      {
-        "market": "props",
-        "play": "Josh Hart U 4.5 ast",
-        "matchup": "Knicks @ Spurs",
-        "time": "08:30 PM ET",
-        "series": "SAS 0-0 NYK",
-        "book": "FanDuel -118",
-        "pnl": -1.0
+        "time": "08:40 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Elite",
+        "book": "FanDuel -128"
       },
       {
         "market": "spreads",
         "play": "NYK ML",
         "matchup": "Knicks @ Spurs",
-        "time": "08:30 PM ET",
-        "series": "SAS 0-0 NYK",
-        "book": "FanDuel +162",
-        "pnl": 1.62
+        "time": "08:40 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Jackpot",
+        "book": "FanDuel +194"
       },
       {
         "market": "totals",
         "play": "UNDER 217.5",
         "matchup": "Knicks @ Spurs",
-        "time": "08:30 PM ET",
-        "series": "SAS 0-0 NYK",
-        "book": "FanDuel -115",
-        "pnl": 0.87
+        "time": "08:40 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Elite",
+        "book": "FanDuel -115"
       }
     ]
   }
