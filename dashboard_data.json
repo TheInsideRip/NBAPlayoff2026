@@ -171,21 +171,21 @@
       },
       {
         "market": "props",
-        "play": "Victor Wembanyama U 3.5 ast",
-        "matchup": "Knicks @ Spurs",
-        "time": "08:40 PM ET",
-        "series": "NYK leads 1-0",
-        "tier": "Elite",
-        "book": "FanDuel -164"
-      },
-      {
-        "market": "props",
         "play": "Devin Vassell U 2.5 ast",
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 1-0",
         "tier": "Elite",
         "book": "FanDuel -128"
+      },
+      {
+        "market": "props",
+        "play": "Julian Champagnie U 1.5 ast",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "NYK leads 1-0",
+        "tier": "Strong",
+        "book": "FanDuel -154"
       },
       {
         "market": "spreads",
