@@ -1,5 +1,5 @@
 {
-  "generated_date": "June 06, 2026",
+  "generated_date": "June 08, 2026",
   "overview": {
     "model_pnl": -3.56,
     "model_record": "70W-68L",
@@ -161,59 +161,71 @@
       "cumPnl": -3.56
     }
   ],
-  "yesterday": {
-    "day_pnl": 1.79,
-    "day_record": "3W-2L",
-    "best_bet": {
-      "pnl": 1.94,
-      "label": "NYK ML"
-    },
-    "last_10_record": "5-5",
-    "bets": [
+  "today": {
+    "first_tip": "08:40 PM ET",
+    "picks": [
       {
         "market": "props",
         "play": "Karl-Anthony Towns U 3.5 ast",
-        "matchup": "Knicks @ Spurs",
+        "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
-        "series": "NYK leads 1-0",
-        "book": "FanDuel +112",
-        "pnl": -1.0
+        "series": "NYK leads 2-0",
+        "tier": "Elite",
+        "book": "FanDuel +118"
       },
       {
         "market": "props",
         "play": "Devin Vassell U 2.5 ast",
-        "matchup": "Knicks @ Spurs",
+        "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
-        "series": "NYK leads 1-0",
-        "book": "FanDuel -128",
-        "pnl": -1.0
+        "series": "NYK leads 2-0",
+        "tier": "Elite",
+        "book": "FanDuel -120"
       },
       {
         "market": "props",
         "play": "Josh Hart U 4.5 ast",
-        "matchup": "Knicks @ Spurs",
+        "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
-        "series": "NYK leads 1-0",
-        "book": "FanDuel -102",
-        "pnl": 0.98
+        "series": "NYK leads 2-0",
+        "tier": "Strong",
+        "book": "FanDuel -120"
+      },
+      {
+        "market": "props",
+        "play": "De'Aaron Fox U 5.5 ast",
+        "matchup": "Spurs @ Knicks",
+        "time": "08:40 PM ET",
+        "series": "NYK leads 2-0",
+        "tier": "Strong",
+        "book": "FanDuel +102"
+      },
+      {
+        "market": "props",
+        "play": "Stephon Castle U 6.5 ast",
+        "matchup": "Spurs @ Knicks",
+        "time": "08:40 PM ET",
+        "series": "NYK leads 2-0",
+        "tier": "Strong",
+        "book": "FanDuel -148"
       },
       {
         "market": "spreads",
-        "play": "NYK ML",
-        "matchup": "Knicks @ Spurs",
+        "play": "NYK -1.5",
+        "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
-        "series": "NYK leads 1-0",
-        "book": "FanDuel +194",
-        "pnl": 1.94
+        "series": "NYK leads 2-0",
+        "tier": "Lean",
+        "book": "FanDuel -118"
       },
       {
         "market": "totals",
-        "play": "UNDER 217.5",
-        "matchup": "Knicks @ Spurs",
+        "play": "UNDER 216.5",
+        "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
-        "series": "NYK leads 1-0",
-        "book": "FanDuel -115",
-        "pnl": 0.87
+        "series": "NYK leads 2-0",
+        "tier": "Elite",
+        "book": "FanDuel -112"
       }
     ]
   }
