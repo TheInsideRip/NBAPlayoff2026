@@ -1,15 +1,15 @@
 {
-  "generated_date": "June 10, 2026",
+  "generated_date": "June 11, 2026",
   "overview": {
-    "model_pnl": -4.87,
-    "model_record": "73W-72L",
-    "model_roi": -3.3,
-    "spreads_pnl": -2.6,
-    "spreads_record": "8W-12L",
-    "totals_pnl": 1.47,
-    "totals_record": "27W-23L",
-    "props_pnl": -3.73,
-    "props_record": "38W-37L",
+    "model_pnl": -4.01,
+    "model_record": "76W-74L",
+    "model_roi": -2.7,
+    "spreads_pnl": -3.6,
+    "spreads_record": "8W-13L",
+    "totals_pnl": 2.39,
+    "totals_record": "28W-23L",
+    "props_pnl": -2.8,
+    "props_record": "40W-38L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -163,19 +163,29 @@
     {
       "date": "2026-06-08",
       "cumPnl": -4.87
+    },
+    {
+      "date": "2026-06-10",
+      "cumPnl": -4.01
     }
   ],
-  "today": {
-    "first_tip": "08:40 PM ET",
-    "picks": [
+  "yesterday": {
+    "day_pnl": 0.85,
+    "day_record": "3W-2L",
+    "best_bet": {
+      "pnl": 1.0,
+      "label": "Karl-Anthony Towns U 3.5 ast"
+    },
+    "last_10_record": "6-4",
+    "bets": [
       {
         "market": "props",
         "play": "Karl-Anthony Towns U 3.5 ast",
         "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
         "series": "NYK leads 2-1",
-        "tier": "Elite",
-        "book": "FanDuel +100"
+        "book": "FanDuel +100",
+        "pnl": 1.0
       },
       {
         "market": "props",
@@ -183,8 +193,8 @@
         "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
         "series": "NYK leads 2-1",
-        "tier": "Strong",
-        "book": "FanDuel +100"
+        "book": "FanDuel +100",
+        "pnl": -1.0
       },
       {
         "market": "props",
@@ -192,8 +202,8 @@
         "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
         "series": "NYK leads 2-1",
-        "tier": "Strong",
-        "book": "FanDuel -108"
+        "book": "FanDuel -108",
+        "pnl": 0.93
       },
       {
         "market": "spreads",
@@ -201,8 +211,8 @@
         "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
         "series": "NYK leads 2-1",
-        "tier": "Jackpot",
-        "book": "FanDuel +110"
+        "book": "FanDuel +110",
+        "pnl": -1.0
       },
       {
         "market": "totals",
@@ -210,8 +220,8 @@
         "matchup": "Spurs @ Knicks",
         "time": "08:40 PM ET",
         "series": "NYK leads 2-1",
-        "tier": "Elite",
-        "book": "FanDuel -108"
+        "book": "FanDuel -108",
+        "pnl": 0.93
       }
     ]
   }
