@@ -218,6 +218,15 @@
         "book": "FanDuel -120"
       },
       {
+        "market": "spreads",
+        "play": "NYK +5.5",
+        "matchup": "Knicks @ Spurs",
+        "time": "08:40 PM ET",
+        "series": "NYK leads 3-1",
+        "tier": "Strong",
+        "book": "FanDuel -110"
+      },
+      {
         "market": "totals",
         "play": "UNDER 216.5",
         "matchup": "Knicks @ Spurs",
