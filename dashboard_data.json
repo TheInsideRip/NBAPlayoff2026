@@ -1,15 +1,15 @@
 {
-  "generated_date": "June 13, 2026",
+  "generated_date": "June 14, 2026",
   "overview": {
-    "model_pnl": -4.01,
-    "model_record": "76W-74L",
-    "model_roi": -2.7,
-    "spreads_pnl": -3.6,
-    "spreads_record": "8W-13L",
-    "totals_pnl": 2.39,
-    "totals_record": "28W-23L",
-    "props_pnl": -2.8,
-    "props_record": "40W-38L",
+    "model_pnl": 2.31,
+    "model_record": "83W-74L",
+    "model_roi": 1.5,
+    "spreads_pnl": -2.69,
+    "spreads_record": "9W-13L",
+    "totals_pnl": 3.29,
+    "totals_record": "29W-23L",
+    "props_pnl": 1.72,
+    "props_record": "45W-38L",
     "knicks_pnl": -0.96,
     "knicks_record": "5W-6L",
     "degen_pnl": -7.07,
@@ -167,19 +167,29 @@
     {
       "date": "2026-06-10",
       "cumPnl": -4.01
+    },
+    {
+      "date": "2026-06-13",
+      "cumPnl": 2.31
     }
   ],
-  "today": {
-    "first_tip": "08:40 PM ET",
-    "picks": [
+  "yesterday": {
+    "day_pnl": 6.33,
+    "day_record": "7W-0L",
+    "best_bet": {
+      "pnl": 1.18,
+      "label": "De'Aaron Fox U 5.5 ast"
+    },
+    "last_10_record": "9-1",
+    "bets": [
       {
         "market": "props",
         "play": "Karl-Anthony Towns U 3.5 ast",
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 3-1",
-        "tier": "Elite",
-        "book": "FanDuel -130"
+        "book": "FanDuel -130",
+        "pnl": 0.77
       },
       {
         "market": "props",
@@ -187,8 +197,8 @@
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 3-1",
-        "tier": "Elite",
-        "book": "FanDuel -128"
+        "book": "FanDuel -128",
+        "pnl": 0.78
       },
       {
         "market": "props",
@@ -196,8 +206,8 @@
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 3-1",
-        "tier": "Strong",
-        "book": "FanDuel -104"
+        "book": "FanDuel -104",
+        "pnl": 0.96
       },
       {
         "market": "props",
@@ -205,8 +215,8 @@
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 3-1",
-        "tier": "Strong",
-        "book": "FanDuel +118"
+        "book": "FanDuel +118",
+        "pnl": 1.18
       },
       {
         "market": "props",
@@ -214,8 +224,8 @@
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 3-1",
-        "tier": "Strong",
-        "book": "FanDuel -120"
+        "book": "FanDuel -120",
+        "pnl": 0.83
       },
       {
         "market": "spreads",
@@ -223,8 +233,8 @@
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 3-1",
-        "tier": "Strong",
-        "book": "FanDuel -110"
+        "book": "FanDuel -110",
+        "pnl": 0.91
       },
       {
         "market": "totals",
@@ -232,8 +242,8 @@
         "matchup": "Knicks @ Spurs",
         "time": "08:40 PM ET",
         "series": "NYK leads 3-1",
-        "tier": "Elite",
-        "book": "FanDuel -112"
+        "book": "FanDuel -112",
+        "pnl": 0.89
       }
     ]
   }
